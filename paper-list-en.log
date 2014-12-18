@@ -1,0 +1,216 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.11.8)  5 DEC 2014 21:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**paper-list-en.tex
+(./paper-list-en.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./paper-list-en.aux)
+\openout1 = `paper-list-en.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 7.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 14.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+
+Overfull \hbox (0.30516pt too wide) in paragraph at lines 16--17
+\OT1/cmr/m/n/10 Oriented Soft-ware De-vel-op-ment, AOSD '13, Com-pan-ion Vol-um
+e, Fukuoka,
+ []
+
+[1
+
+]
+Overfull \hbox (0.8896pt too wide) in paragraph at lines 58--62
+[]\OT1/cmr/m/n/10 Naoyasu Ubayashi, Tet-suo Tamai, Shinji Sano, Yusaku Maeno, a
+nd Satoshi
+ []
+
+
+Overfull \hbox (2.73056pt too wide) in paragraph at lines 99--102
+\OT1/cmr/m/it/10 Work-ing Con-fer-ence on Min-ing Soft-ware Repos-i-to-ries (MS
+R 2014)\OT1/cmr/m/n/10 , pp.172-
+ []
+
+[2] [3]
+Overfull \hbox (5.6923pt too wide) in paragraph at lines 153--157
+\OT1/cmr/m/it/10 Soft-ware Pro-cess and Prod-uct Mea-sure-ment (Men-sura) (IWSM
+/MENSURA
+ []
+
+[4] [5]
+Overfull \hbox (6.86185pt too wide) in paragraph at lines 233--236
+[]\OT1/cmr/m/n/10 Keiichi Katamine, Ya-su-fumi Shinyashiki, Toshiro Mise, Masaa
+ki Hashimoto,
+ []
+
+
+Overfull \hbox (1.61185pt too wide) in paragraph at lines 233--236
+\OT1/cmr/m/n/10 Naoy-asu Ubayashi, and Takako Nakatani: For-mal-iz-ing a Con-ce
+p-tual Model
+ []
+
+
+Overfull \hbox (10.58408pt too wide) in paragraph at lines 259--265
+[]\OT1/cmr/m/n/10 Yasufumi Shinyashiki, Toshiro Mise, Masaaki Hashimoto, Naoy-a
+su Ubayashi,
+ []
+
+
+Overfull \hbox (1.70265pt too wide) in paragraph at lines 266--272
+\OT1/cmr/m/it/10 mated Soft-ware En-gi-neer-ing (ASE 2007)\OT1/cmr/m/n/10 , ACM
+ PRESS, pp.154-163 (2007).
+ []
+
+[6]
+Overfull \hbox (6.86185pt too wide) in paragraph at lines 273--277
+[]\OT1/cmr/m/n/10 Yasufumi Shinyashiki, Toshiro Mise, Masaaki Hashimoto, Kei-ic
+hi Katamine,
+ []
+
+
+Overfull \hbox (12.891pt too wide) in paragraph at lines 278--283
+\OT1/cmr/m/it/10 An-nual ACM Sym-po-sium on Ap-plied Com-put-ing (SAC 2007) \OT
+1/cmr/m/n/10 ---Programming
+ []
+
+
+Overfull \hbox (14.38965pt too wide) in paragraph at lines 292--296
+[]\OT1/cmr/m/n/10 Hidehiro Kametani, Ya-suhumi Shini-ashiki, Toshiro Mise, Masa
+aki Hashimoto,
+ []
+
+
+Overfull \hbox (0.8896pt too wide) in paragraph at lines 302--307
+[]\OT1/cmr/m/n/10 Naoyasu Ubayashi, Tet-suo Tamai, Shinji Sano, Yusaku Maeno, a
+nd Satoshi
+ []
+
+
+Overfull \hbox (6.86185pt too wide) in paragraph at lines 308--314
+[]\OT1/cmr/m/n/10 Toshiro Mise, Masaaki Hashimoto, Kei-ichi Katamine, Ya-su-fum
+i Shinyashiki,
+ []
+
+[7]
+Overfull \hbox (0.8896pt too wide) in paragraph at lines 322--328
+[]\OT1/cmr/m/n/10 Naoyasu Ubayashi, Tet-suo Tamai, Shinji Sano, Yusaku Maeno, a
+nd Satoshi
+ []
+
+
+Overfull \hbox (3.19505pt too wide) in paragraph at lines 322--328
+\OT1/cmr/m/n/10 Mu-rakami: Model Com-piler Con-struc-tion Based on Aspect-Orien
+ted Mech-
+ []
+
+
+Overfull \hbox (11.83688pt too wide) in paragraph at lines 322--328
+\OT1/cmr/m/it/10 2005), Lec-ture Notes in Com-puter Sci-ence\OT1/cmr/m/n/10 , S
+pringer-Verlag, vol.3676, pp.109-
+ []
+
+
+Overfull \hbox (10.43472pt too wide) in paragraph at lines 329--335
+\OT1/cmr/m/it/10 IEEE/ACM In-ter-na-tional Con-fer-ence on Soft-ware En-gi-neer
+-ing (ICSE 2005)\OT1/cmr/m/n/10 ,
+ []
+
+
+Overfull \hbox (0.1673pt too wide) in paragraph at lines 348--354
+[]\OT1/cmr/m/n/10 Naoyasu Ubayashi and Tet-suo Tamai: Aspect-Oriented Pro-gram-
+ming with
+ []
+
+
+Overfull \hbox (2.81723pt too wide) in paragraph at lines 355--361
+\OT1/cmr/m/it/10 FLEC-TION 2001), Lec-ture Notes in Com-puter Sci-ence, vol.219
+2\OT1/cmr/m/n/10 , Springer-
+ []
+
+[8]
+Overfull \hbox (20.69522pt too wide) in paragraph at lines 396--399
+[]\OT1/cmr/m/n/10 Kazuhiro Ya-mashita, Ya-su-taka Kamei, Kenji Hisazumi, and Na
+oy-asu Ubayashi:
+ []
+
+
+Overfull \hbox (3.44511pt too wide) in paragraph at lines 400--403
+\OT1/cmr/m/n/10 Min-ing Soft-ware Repos-i-to-ries, 5th In-ter-na-tional Work-sh
+op on Model-driven
+ []
+
+[9]
+Overfull \hbox (3.33401pt too wide) in paragraph at lines 440--443
+[]\OT1/cmr/m/n/10 Shizuka Uchio, Naoy-asu Ubayashi, and Ya-su-taka Kamei: CJAd-
+viser: SMT-
+ []
+
+
+Overfull \hbox (9.36182pt too wide) in paragraph at lines 440--443
+\OT1/cmr/m/n/10 based De-bug-ging Sup-port for Con-textJ*, 3rd Work-shop on Con
+text-Oriented
+ []
+
+[10]
+Overfull \hbox (6.75076pt too wide) in paragraph at lines 491--495
+[]\OT1/cmr/m/n/10 Suguru Shinot-suka, Naoy-asu Ubayashi, Hideaki Shi-nomi, and 
+Tet-suo Tamai:
+ []
+
+
+Overfull \hbox (0.8896pt too wide) in paragraph at lines 501--507
+[]\OT1/cmr/m/n/10 Naoyasu Ubayashi, Tet-suo Tamai, Shinji Sano, Yusaku Maeno, a
+nd Satoshi
+ []
+
+[11] [12] (./paper-list-en.aux) ) 
+Here is how much of TeX's memory you used:
+ 245 strings out of 493110
+ 2810 string characters out of 6135030
+ 57964 words of memory out of 5000000
+ 3783 multiletter control sequences out of 15000+600000
+ 7626 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,6n,19p,273b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on paper-list-en.dvi (12 pages, 43268 bytes).

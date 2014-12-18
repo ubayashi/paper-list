@@ -1,0 +1,1694 @@
+\documentclass{jarticle}
+\pagestyle{plain}
+
+\begin{document}
+\title{業績一覧表}
+\author{鵜林 尚靖}
+\maketitle
+
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{学位論文}
+\begin{description}
+\item [題目:] 環境適応概念に基づく発展型協調計算に関する研究
+\item [学位:] 博士 (学術)
+\item [大学名:] 東京大学
+\item [取得時期:] 1999年3月
+\item [概要:]
+
+オブジェクト群が協調計算を通じて、その機能を動的に発展させていくための新
+たな枠組みを提示。協調計算とは、様々な役割を担うオブジェクト群が相互にメッ
+セージ通信を行いながら、オブジェクト単独では実現できないひとまとまりの機
+能を果たすことを言い、一方、発展とは、オブジェクトが動的にメソッドや属性
+を着脱していくことをいう。これを実現するため、オブジェクトに協調計算の場
+を提供する「環境」という概念を導入した。オブジェクトは動的に環境に適応し
+たり、環境から離脱したりすることにより、他者との協調関係を変化させつつ発
+展していく。一方、環境側もそこに所属するオブジェクトが出入りすることによ
+り発展する。すなわち、オブジェクトと環境はお互い相補的に発展していく。博
+士論文では、このような計算のことを発展型協調計算と呼び、その基盤として、
+環境適応型計算モデルを与えた。
+\end{description}
+
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{受賞}
+\begin{itemize}
+\item 情報処理学会 平成15年度山下記念研究賞 (2003.7.25)
+\end{itemize}
+
+
+\newpage
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{書籍}
+
+\begin{itemize}
+\item Hidehiko Masuhara, Shigeru Chiba, Naoyasu Ubayashi (Eds.): Aspect-Oriented Software Development, AOSD '13, Fukuoka, Japan, March 24-29, 2013. ACM 2013, ISBN 978-1-4503-1766-5
+
+\item Hidehiko Masuhara, Shigeru Chiba, Naoyasu Ubayashi (Eds.): Aspect-Oriented Software Development, AOSD '13, Companion Volume, Fukuoka, Japan, March 24-29, 2013. ACM 2013, ISBN 978-1-4503-1873-0
+
+\item 鵜林 尚靖, 亀井 靖高 (編):
+ソフトウェア工学の基礎XIX: FOSE2012 (レクチャーノート・ソフトウェア学),
+近代科学社 (2012).
+
+\item 鵜林 尚靖, 岸 知二 (編):
+ソフトウェアエンジニアリング最前線 2009 -情報処理学会SEシンポジウム,
+近代科学社 (2009).
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{英語論文}
+
+%----------------------------------------------------------------------
+\subsection{Book Chapter (査読つき)}
+
+\begin{itemize}
+\item Tetsuo Tamai, Naoyasu Ubayashi, and Ryoichi Ichiyama:
+Objects as Actors Assuming Roles in the Environment,
+{\em Choren, R., Garcia, A., Giese, H., Leung, H., Lucena, C., and Romanovsky
+A., eds., Software Engineering for Multi-Agent Systems V,
+LNCS 4408}, Springer-Verlag, pp.185-203 (2007).
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+\subsection{論文誌 (査読つき)}
+
+\begin{itemize}
+\item Naoyasu Ubayashi, Shin Nakajima, and Masayuki Hirayama:
+Context-dependent Product Line Engineering with Lightweight Formal Approaches (SPLC 2010 Revised Selected Paper),
+{\em Science of Computer Programming}, 78(12), pp.2331-2346 (2013).
+
+\item Yasutaka Kamei, Emad Shihab, Bram Adams, Ahmed E. Hassan, Audris Mockus, Anand Sinha, and Naoyasu Ubayashi:
+A Large-Scale Empirical Study of Just-In-Time Quality Assurance,
+{\em IEEE Transactions on Software Engineering}, vol 39, issue 6, pp.757-773 (2013).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+An Extensible Aspect-oriented Modeling Environment for Constructing Domain-Specific Languages,
+{\em IEICE Transactions on Information and Systems}, vol E95-D no.4, pp.942-958 (2012).
+
+\item Takako Nakatani, Shozo Hori, Naoyasu Ubayashi, Keiichi Katamine, and Masaaki Hashimoto:
+A Case Study of Requirements Elicitation Process with Changes,
+{\em IEICE Transactions on Information and Systems}, vol E93-D no.8, pp.2182-2189 (2010).
+
+\item Shozo Hori, Takako Nakatani, Keiichi Katamine, Naoyasu Ubayashi, and Masaaki Hashimoto:
+Project Management Patterns To Prevent Schedule Delay Caused by Requirements Changes,
+{\em IEICE Transactions on Information and Systems}, vol E93-D no.4, pp.745-753 (2010).
+
+\item Naoyasu Ubayashi, Tetsuo Tamai, Shinji Sano, Yusaku Maeno, and Satoshi Murakami:
+Metamodel Access Protocols for Extensible Aspect-Oriented Modeling,
+{\em International Transactions on Systems Science and Applications (ITSSA)},
+vol.1, no.1, pp.93-101 (2006).
+
+\item Kouhei Sakurai, Hidehiko Masuhara, Naoyasu Ubayashi, Saeko Matuura, and Seiichi Komiya: 
+Design and Implementation of an Aspect Instantiation Mechanism,
+{\em Transactions on Aspect-Oriented Software Development I,
+Lecture Notes in Computer Science, vol.3880}, Springer-Verlag,
+pp.259-292 (2006).
+
+\item Naoyasu Ubayashi and Tetsuo Tamai:
+Modeling collaborations among objects that change their roles dynamically and its modularization mechanism,
+{\em Systems and Computers in Japan},
+vol.33, no.5, pp.51-63 (2002).
+(電子情報通信学会和文論文誌, vol.J82-D-I, no.6, pp.718-729 の英文版)
+
+\item Naoyasu Ubayashi, Atsuo Ohki, and Yasushi Kuno: 
+A Parallel Computation Model and a Programming Language 
+for the Description of Collaboration among Objects,
+{\em Systems and Computers in Japan},
+vol.28, no.5, pp.33-43 (1997).
+(電子情報通信学会和文論文誌, vol.J79-D-I, no.10, pp.625-634 の英文版)
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+\subsection{国際会議 (査読つき)}
+
+\begin{itemize}
+\item Akinori Ihara, Yasutaka Kamei, Masao Ohira, Ahmed E. Hassan, Naoyasu Ubayashi, and Kenichi Matsumoto:
+Early Identification of Future Committers in Open Source Software Projects,
+In {\em Proceedings of the 14th International Conference on Quality Software (QSIC 2014)}, pp.47-56 (2014).
+
+\item Naoyasu Ubayashi, Di Ai, Peiyuan Li, Yu Ning Li, Shintaro Hosoai, and Yasutaka Kamei:
+Abstraction-aware Verifying Compiler for Yet Another MDD,
+In {\em Proceedings of the 29th International Conference on Automated Software Engineering (ASE 2014)}, New Ideas Paper, pp.557-562 (2014).
+
+\item Shuhei Ohsako, Yasutaka Kamei, Shintaro Hosoai, Weiqiang Kong, Kimitaka Kato, Akihiko Ishizuka, Kazutoshi Sakaguchi, Miyuki Kawataka, Yoshitsugu Morita, Naoyasu Ubayashi, and Akira Fukuda:
+A Case Study on Introducing the Design Thinking into PBL,
+In {\em Proceedings of the 10th International Conference on Frontiers in Education: Computer Science and Computer Engineering  (FECS 2014)} (2014).
+
+\item Takafumi Fukushima, Yasutaka Kamei, Shane McIntosh, Kazuhiro Yamashita, and Naoyasu Ubayashi:
+An Empirical Study of Just-In-Time Defect Prediction Using Cross-Project Models,
+In {\em Proceedings of the 11th Working Conference on Mining Software Repositories (MSR 2014)}, pp.172-181 (2014).
+
+\item Kazuhiro Yamashita, Shane McIntosh, Yasutaka Kamei, and Naoyasu Ubayashi:
+Magnet or Sticky?: An OSS Project-by-Project Typology,
+Mining Challenge Track,
+In {\em Proceedings of the 11th Working Conference on Mining Software Repositories (MSR 2014)}, pp.344-347 (2014).
+
+\item Di Ai, Naoyasu Ubayashi, Peiyuan Li, Daisuke Yamamoto, Yu Ning Li, Shintaro Hosoai, and Yasutaka Kamei:
+iArch: An IDE for Supporting Fluid Abstraction,
+In {\em Proceedings of the 13th International Conference on Modularity (Modularity'14)}, Demonstrations, pp.13-16 (2014).
+
+\item Di Ai, Naoyasu Ubayashi, Peiyuan Li, Shintaro Hosoai, and Yasutaka Kamei:
+iArch: An IDE for Supporting Abstraction-aware Design Traceability,
+In {\em Proceedings of the 2nd International Conference on Model-Driven Engineering and Software Development (MODELSWARD 2014)},
+pp.442-447 (2014).
+
+\item Tetsuya Oishi, Weiqiang Kong, Yasutaka Kamei, Norimichi Hiroshige, Naoyasu Ubayashi, and Akira Fukuda:
+An Empirical Study on Remote Lectures Using Video Conferencing Systems,
+In {\em Proceedings of the 9th International Conference on Frontiers in Education: Computer Science and Computer Engineering  (FECS 2013)} (2013).
+
+\item Masateru Tsunoda, Koji Toda, Kyohei Fushida, Yasutaka Kamei, Meiyappan Nagappan, and Naoyasu Ubayashi:
+Revisiting Software Development Effort Estimation Based on Early Phase Development Activities,
+In {\em Proceedings of 10th Working Conference on Mining Software Repositories (MSR 2013)}, pp.429-438 (2013).
+
+\item Kazuhiro Yamashita:
+Modular Construction of an Analysis Tool for Mining Software Repositories,
+MODULARITY: aosd13, ACM Student Research Competition (2013).
+
+\item Tetsuya Oishi, Yasutaka Kamei, Weiqiang Kong, Norimichi Hiroshige, Naoyasu Ubayashi, and Akira Fukuda:
+An Experience Report on Remote Lecture Using Multi-point Control Unit,
+In {\em Proceedings of International Conference on Education and Teaching (ICET 2013)} (2013).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+UML-based Design and Verification Method for Developing Dependable Context-aware Systems,
+In {\em Proceedings of the 1st International Conference on Model-Driven Engineering and Software Development (MODELSWARD 2013)},
+pp.89-94 (2013).
+
+\item Norimichi Hiroshige, Weiqiang Kong, Shigeru Kusakabe, Tsunenori Mine, Naoyasu Ubayashi, Akira Fukuda, and Keijiro Araki:
+Communication Analysis through PBL,
+In {\em Proceedings of the 2012 International Conference onf Frontiers in Education: Computer Science and Computer Engineering (FECS 2012)},
+vol.1 pp.54-58 (2012).
+
+\item Rina Nagano, Hiroki Nakamura, Yasutaka Kamei, Bram Adams, Kenji Hisazumi, Naoyasu Ubayashi, and Akira Fukuda:
+Using the GPGPU for Scaling Up Mining Software Repositories,
+In {\em Proceedings of the 34th International Conference on Software Engineering (ICSE 2012)}, poster,
+IEEE Computer Society, pp.1435-1436 (2012).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+Stepwise Context Boundary Exploration Using Guide Words,
+CAiSE Forum 2011, LNBIP 107 proceedings,
+pp.218-233 (2012).
+
+\item Yasutaka Kamei, Hiroki Sato, Akito Monden, Shinji Kawaguchi, Hidetake Uwano, Masataka Nagura, Ken-Ichi Matsumoto, and Naoyasu Ubayashi:
+An Empirical Study of Fault Prediction with Code Clone Metrics,
+In {\em Proceedings of the Joint Conference of the 21th International Workshop on Software Measurement (IWSM) and the 6th International Conference on Software Process and Product Measurement (Mensura) (IWSM/MENSURA 2011)},
+pp.55-61 (2011).
+
+\item Ryosuke Nakashiro, Yasutaka Kamei, Naoyasu Ubayashi, Shin Nakajima, and Akihito Iwai:
+Translation Pattern of BPEL Process into Promela Code [Short paper],
+In {\em Proceedings of the Joint Conference of the 21th International Workshop on Software Measurement (IWSM) and the 6th International Conference on Software Process and Product Measurement (Mensura) (IWSM/MENSURA 2011)},
+pp.285-290 (2011).
+
+\item Naoyasu Ubayashi, Yasutaka Kamei, Masayuki Hirayama, and Tetsuo Tamai:
+A Context Analysis Method for Embedded Systems ---Exploring a Requirement Boundary between a System and Its Context,
+In {\em Proceedings of the 19th IEEE International Requirements Engineering Conference (RE 2011)},
+IEEE Computer Society, pp.143-152 (2011).
+[acceptance rate: 23 of 138 (16.7\%)]
+
+\item Masaru Shiozuka, Naoyasu Ubayashi, and Yasutaka Kamei:
+Debug Concern Navigator,
+In {\em Proceedings of the 23rd International Conference on Software Engineering and Knowledge Engineering (SEKE 2011)},
+pp.197-202 (2011).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+Stepwise Context Boundary Exploration Using Guide Words,
+In {\em Proceedings of the 23rd International Conference on Advanced Information Systems Engineering (CAiSE 2011 Forum)} (2011).
+
+\item Keiji Hokamura, Naoyasu Ubayashi, Shin Nakajima, and Akihito Iwai:
+Reusable Aspect Components for Web Applications,
+In {\em Proceedings of 2010 IEEE Region 10 Conference (TENCON 2010)},
+pp.1059-1064 (2010).
+
+\item Naoyasu Ubayashi, Shin Nakajima, and Masayuki Hirayama:
+Context-dependent Product Line Practice for Constructing Reliable Embedded Systems,
+In {\em Proceedings of the 14th International Software Product Line Conference (SPLC 2010)},
+Springer LNCS 6287, pp.1-15 (2010).
+[acceptance rate: 28 of 90 (31\%)]
+
+\item Naoyasu Ubayashi, Jun Nomura, and Tetsuo Tamai:
+Archface: A Contract Place Where Architectural Design and Code Meet Together,
+In {\em Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering (ICSE 2010)},
+ACM PRESS, pp.75-84 (2010).
+[acceptance rate: 54 of 380 (14\%)]
+
+\item Shozo Hori, Takako Nakatani, Keiichi Katamine, Naoyasu Ubayashi, and Masaaki Hashimoto:
+A Discussion on a Framework of Project Management Patterns to Prevent Schedule Delay Caused by  Requirements Elicitation,
+In {\em Proceedings of the IADIS Information Systems Conference (IS 2010)} (2010).
+
+\item Keiji Hokamura, Ryoto Naruse, Masaru Shiozuka, Naoyasu Ubayashi, Shin Nakajima, and Akihito Iwai:
+AOWP: Web-specific AOP framework for PHP,
+In {\em Proceedings of the 24th IEEE/ACM International Conference on Automated Software Engineering (ASE 2009)} Tool Demonstrations Track,
+IEEE Computer Society, pp.679-681 (2009).
+
+\item Shouzo Hori, Takako Nakatani, Keiichi Katamine, Naoyasu Ubayashi, and Masaaki Hashimoto:
+Project Management Patterns for Preventing Schedule Delay Caused by Requirements Changes,
+In {\em Proceedings of the 4th International Conference on Software and Data Technologies (ICSOFT 2009)} (2009).
+
+\item Naoyasu Ubayashi, Genya Otsubo, Kazuhide Noda, and Jun Yoshida:
+An Extensible Aspect-oriented Modeling Environment,
+In {\em Proceedings of the 21st International Conference on Advanced Information Systems (CAiSE 2009)},
+Lecture Notes in Computer Science, Springer-Verlag, vol.5565, pp.17-31 (2009).
+[acceptance rate: 36 of 230 (16\%)]
+
+\item Keiji Hokamura, Naoyasu Ubayashi, Shin Nakajima, and Akihito Iwai:
+Aspect-oriented Programming for Web Controller Layer,
+In {\em Proceedings of the 15th Asia-Pacific Software Engineering Conference (APSEC 2008)},
+IEEE Computer Society,
+pp.529-536 (2008).
+[acceptance rate: 65 of 221 (29\%)]
+
+\item Naoyasu Ubayashi, Genya Otsubo, Kazuhide Noda, Jun Yoshida, and Tetsuo Tamai:
+AspectM: UML-based Extensible AOM Language,
+In {\em Proceedings of the 23rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2008)} Research Tool Demonstrations Track,
+IEEE Computer Society,
+pp.501-502 (2008).
+
+\item Takako Nakatani, Shouzo Hori, Naoyasu Ubayashi, Keiichi Katamine, and Masaaki Hashimoto:
+A Case Study: Requirements Elicitation Processes throughout a Project,
+In {\em Proceedings of the 16th IEEE International Requirements Engineering Conference (RE 2008)} Industrial Practice and Experience Track,
+IEEE Computer Society,
+pp.241-246 (2008).
+
+\item Keiichi Katamine, Yasufumi Shinyashiki, Toshiro Mise, Masaaki Hashimoto, Naoyasu Ubayashi, and Takako Nakatani:
+Formalizing a Conceptual Model for Analysis Method of Extracting Unexpected Obstacles of Embedded Systems,
+In {\em Proceedings of the 8th Joint Conference on Knowledge-Based Software Engineering (JCKBSE 2008)} (2008).
+
+\item Keiichi Ishibashi, Masaaki Hashimoto, Keiichi Katamine, Ryoma Shiratsuchi, Keita Asaine, Takako Nakatani, Naoyasu Ubayashi, and Yoshihiro Akiyama:
+A Discussion on Domain Modeling in an Example of Motivation-Based Human Resource Management,
+In {\em Proceedings of the 8th Joint Conference on Knowledge-Based Software Engineering (JCKBSE 2008)} (2008).
+
+\item Keiichi Ishibashi, Masaaki Hashimoto, Keiichi Katamine, Ryoma Shiratsuchi, Keita Asaine, Takako Nakatani, Naoyasu Ubayashi, and Yoshihiro Akiyama:
+A CCPM Application: A Motivation-based Modeling of Generating Management Scenarios,
+In {\em Proceedings of the 4th International Project Management Conference (ProMAC 2008)} (2008).
+
+\item Naoyasu Ubayashi, Yuki Sato, Akihiro Sakai, and Tetsuo Tamai:
+Alloy-based Lightweight Verification for Aspect-oriented Architecture,
+In {\em Proceedings of the 6th International Conference on Software Engineering Research, Management and Applications (SERA 2008)},
+IEEE Computer Society,
+pp.171-178 (2008).
+[acceptance rate: 62 of 147 (42\%)]
+
+\item Naoyasu Ubayashi, Jinji Piao, Suguru Shinotsuka, and Tetsuo Tamai:
+Contract-based Verification for Aspect-oriented Refactoring,
+In {\em Proceedings of the 1st IEEE International Conference on Software Testing, Verification, and Validation (ICST 2008)},
+IEEE Computer Society,
+pp.180-189 (2008).
+[acceptance rate: 37 of 147 (25\%)]
+
+\item Yasufumi Shinyashiki, Toshiro Mise, Masaaki Hashimoto, Naoyasu Ubayashi, Keiichi Katamine, and Takako Nakatani:
+Enhancing the ESIM (Embedded Systems Improving Method) by Combining Information Flow Diagram with Analysis Matrix for Efficient Analysis of Unexpected Obstacles in Embedded Software,
+In {\em Proceedings of the 14th Asia-Pacific Software Engineering Conference (APSEC 2007)},
+IEEE Computer Society,
+pp.326-333 (2007).
+[acceptance rate: 67 of 214 (31\%)]
+
+\item Naoyasu Ubayashi, Akihiro Sakai, and Tetsuo Tamai:
+An Aspect-oriented Weaving Mechanism Based on Component and Connector Architecture,
+In {\em Proceedings of the 22nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2007)},
+ACM PRESS,
+pp.154-163 (2007).
+[acceptance rate: 37 of 312 (12\%)]
+
+\item Yasufumi Shinyashiki, Toshiro Mise, Masaaki Hashimoto, Keiichi Katamine, Naoyasu Ubayashi, and Takako Nakatani:
+A Suggestion for Analysis of Unexpected Obstacles in Embedded System,
+In {\em Proceedings of the 12th International Conference on Human-Computer Interaction (HCI 2007)},
+pp.755-768 (2007).
+
+\item Naoyasu Ubayashi and Shin Nakajima:
+Context-aware Feature-Oriented Modeling with an Aspect Extension of VDM,
+In {\em Proceedings of the 22nd Annual ACM Symposium on Applied Computing (SAC 2007)} ---Programming for Separation of Concerns (PSC) Track ,
+pp.1269-1274 (2007).
+[acceptance rate: 251 of 786 (32\%)]
+
+\item Shinya Yoshihara, Shozo Hori, Yoshihiro Akiyama, Takako Nakatani, Keiichi Katamine, Naoyasu Ubayashi, and Masaaki Hashimoto:
+A Requirement Traceability Model for Managing Unexpected Obstacle Analysis in the Upper Process of Embedded Software Development Projects,
+In {\em Proceedings of the 3rd International Project Management Conference (ProMAC 2006)} (2006).
+
+\item Ishibashi K., Shiratsuchi R., Asaine K., Hashimoto M., Akiyama Y., Nakatani T., Ubayashi N., Katamine K., and Miyashita Y.:
+Applying Lawler's expectancy theory to human factors in project management -Introducing the CCPM method as an example,
+In {\em Proceedings of the 3rd International Project Management Conference (ProMAC 2006)} (2006).
+
+\item Hidehiro Kametani, Yasuhumi Shiniashiki, Toshiro Mise, Masaaki Hashimoto, Naoyasu Ubayashi, Keiichi Katamine, and Takako Nakatani:
+Information Flow Diagram and Analysis Method for Unexpected Obstacle Specification of Embedded Software,
+In {\em Proceedings of the 7th Joint Conference on Knowledge-Based Software Engineering (JCKBSE 2006)},
+pp.115-124 (2006).
+
+\item Toshiro Mise, Yasuhumi Shiniashiki, Takako Nakatani, Naoyasu Ubayashi, Keiichi Katamine, and Masaaki Hashimoto:
+A Method for Extracting Unexpected Scenarios of Embedded Systems,
+In {\em Proceedings of the 7th Joint Conference on Knowledge-Based Software Engineering (JCKBSE 2006)},
+pp.41-50 (2006).
+
+\item Naoyasu Ubayashi, Tetsuo Tamai, Shinji Sano, Yusaku Maeno, and Satoshi Murakami:
+Metamodel Access Protocols for Extensible Aspect-Oriented Modeling,
+In {\em Proceedings of the 18th International Conference on Software Engineering and Knowledge Engineering (SEKE 2006)},
+pp.4-10 (2006).
+[acceptance rate: 42\%]
+
+\item Toshiro Mise, Masaaki Hashimoto, Keiichi Katamine, Yasufumi Shinyashiki, Naoyasu Ubayashi, and Takako Nakatani:
+An Analysis Method with Failure Scenario Matrix for Specifying Unexpected Obstacles in Embedded Systems,
+In {\em Proceedings of the 12th Asia-Pacific Software Engineering Conference (APSEC 2005)},
+IEEE Computer Society,
+pp.447-456 (2005).
+[acceptance rate: 29\%]
+
+\item Naoyasu Ubayashi, Genki Moriyama, Hidehiko Masuhara, and Tetsuo Tamai:
+A Parameterized Interpreter for Modeling Different AOP Mechanisms,
+In {\em Proceedings of the 20th IEEE/ACM International Conference on Automated Software Engineering (ASE 2005)},
+ACM PRESS,
+pp.194-203 (2005).
+[acceptance rate: 28 of 291 (10\%)]
+
+\item Naoyasu Ubayashi, Tetsuo Tamai, Shinji Sano, Yusaku Maeno, and Satoshi Murakami:
+Model Compiler Construction Based on Aspect-Oriented Mechanisms,
+In {\em Proceedings of the 4th ACM SIGPLAN International Conference on Generative Programming and Component Engineering (GPCE 2005),
+Lecture Notes in Computer Science}, Springer-Verlag, vol.3676,
+pp.109-124 (2005).
+[acceptance rate: 27 of 86 (31\%)]
+
+\item Tetsuo Tamai, Naoyasu Ubayashi, and Ryoichi Ichiyama:
+An Adaptive Object Model with Dynamic Role Binding,
+In {\em Proceedings of the 27th IEEE/ACM International Conference on Software Engineering (ICSE 2005)},
+ACM PRESS,
+pp.166-175 (2005).
+[acceptance rate: 44 of 313 (14\%)]
+
+\item Masaaki Hashimoto, Toyohiko Hirota, Yuji Imoto, Keiichi Katamine, Osamu Takata, and Naoyasu Ubayashi:
+A Discussion on Modeling Technique of Product-Oriented Project Scheduling in an Example of Building Construction,
+In {\em Proceedings of the 2nd International Project Management Conference (ProMAC 2004)},
+pp.628-633 (2004).
+
+\item Kouhei Sakurai, Hidehiko Masuhara, Naoyasu Ubayashi, Saeko Matsuura, and Seiichi Komiya:
+Association aspects,
+In {\em Proceedings of the 3rd International Conference on Aspect-Oriented Software Development (AOSD 2004)},
+ACM PRESS,
+pp.16-25 (2004).
+[acceptance rate: 15 of 82 (18\%)]
+
+\item Naoyasu Ubayashi and Tetsuo Tamai:
+Aspect-Oriented Programming with Model Checking,
+In {\em Proceedings of the 1st International Conference on Aspect-Oriented Software Development (AOSD 2002)},
+ACM PRESS, short paper,
+pp.148-154 (2002).
+[acceptance rate: 9+8 of 50 (34\%)]
+
+\item Naoyasu Ubayashi and Tetsuo Tamai:
+Separation of Concerns in Mobile Agent Applications,
+In {\em Proceedings of the 3rd International Conference on Metalevel Architectures and Separation of Crosscutting Concerns (REFLECTION 2001),
+Lecture Notes in Computer Science, vol.2192}, Springer-Verlag,
+pp.89-109 (2001).
+[acceptance rate: 11 of 44 (25\%)]
+
+\item Naoyasu Ubayashi and Tetsuo Tamai:
+RoleEP: Role Based Evolutionary Programming for Cooperative Mobile Agent
+Applications,
+In {\em Proceedings of the International Symposium on Principles of Software Evolution 2000 (ISPSE 2000)},
+IEEE Computer Society,
+pp.243-251 (2000).
+
+\item Naoyasu Ubayashi and Tetsuo Tamai:
+An Evolutional Cooperative Computation
+Based on Adaptation to Environment,
+In {\em Proceedings of the 6th Asia Pacific Software Engineering Conference (APSEC'99)},
+IEEE Computer Society,
+pp.334-341 (1999).
+[acceptance rate: 65 of 137 (47\%)]
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+\subsection{国際ワークショップ (査読つき)}
+
+\begin{itemize}
+\item Peiyuan Li, Naoyasu Ubayashi, Di Ai, Yu Ning Li, Shintaro Hosoai, Yasutaka Kamei:
+Sketch-based Gradual Model-Driven Development,
+International Workshop on Innovative Software Development Methodologies and Practices (InnoSWDev) (Workshop at FSE 2014), pp.100-105 (2014).
+
+\item Takuya Fukamachi, Naoyasu Ubayashi, Di Ai, Peiyuan Li, Yu Ning Li, Shintaro Hosoai, and Yasutaka Kamei:
+Uncertainty-aware Architectural Interface,
+9th International Workshop on Advanced Modularization Techniques (AOAsia/Pacific 2014)  (Workshop at FSE 2014), pp.4-6 (2014).
+
+\item Changyun Huang, Naoyasu Ubayashi, and Yasutaka Kamei:
+Towards Language-Oriented Software Development,
+2nd International Workshop on Open and Original Problems in Software Language Engineering (OOPSLE 2014) (Workshop at CSMR-WCRE 2014), pp.20-23 (2014).
+
+\item Kazuhiro Yamashita, Yasutaka Kamei, Kenji Hisazumi, and Naoyasu Ubayashi:
+E-CUBE: An Analysis Tool to Support Three Types of Evolution in Mining Software Repositories,
+2013 International Workshop on ICT (2013).
+
+\item Changyun Huang, Yasutaka Kamei, Kazuhiro Yamashita, and Naoyasu Ubayashi:
+Using Alloy to Support Feature-Based DSL Construction for Mining Software Repositories,
+5th International Workshop on Model-driven Approaches in Software Product Line Engineering; 4th Workshop on Scalable Modeling Techniques for Software Product Lines (MAPLE/SCALE 2013)  (Workshop at SPLC 2013), pp.86-89 (2013).
+
+\item Naoyasu Ubayashi, Ai Di, and Yasutaka Kamei:
+Archface4COP: Architectural Interface for Context-Oriented Programming,
+5th Workshop on Context-Oriented Programming (COP 2013) (Workshop at ECOOP 2013) (2013).
+
+\item Changyun Huang, Kazuhiro Yamashita, Yasutaka Kamei, Kenji Hisazumi, and Naoyasu Ubayashi:
+Domain Analysis for Mining Software Repositories ---Towards Feature-based DSL Construction---,
+4th International Workshop on Product LinE Approaches in Software Engineering (PLEASE 2013) (Workshop at ICSE 2013), pp.41-44 (2013).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+Design Module: A Modularity Vision Beyond Code ---Not Only Program Code But Also a Design Model Is a Module---,
+5th International Workshop on Modelling in Software Engineering (MiSE 2013) (Workshop at ICSE 2013), pp.44-50 (2013).
+
+\item Akinori Ihara, Yasutaka Kamei, Akito Monden, Masao Ohira, Jacky Wai Keung, Naoyasu Ubayashi, and Ken-ichi Matsumoto:
+An Investigation on Software Bug Fix Prediction for Open Source Software Projects -A Case Study on the Eclipse Project -,
+International Workshop on Software Analysis, Testing and Applications (SATA 2012) (Workshop at APSEC 2012), pp.112-119 (2012).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+UML4COP: UML-based DSML for Context-Aware Systems,
+12th Workshop on Domain-Specific Modeling (DSM 2012) (Workshop at SPLASH 2012) (2012).
+
+\item Hiroki Nakamura, Rina Nagano, Kenji Hisazumi, Yasutaka Kamei, Naoyasu Ubayashi, and Akira Fukuda:
+QORAL: An External Domain-Specific Language for Mining Software Repositories,
+4th International Workshop on Empirical Software Engineering in Practice (IWESEP 2012) (2012).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+Archpoint and Archmapping - Bidirectional Traceability between Design and Code -,
+Korea-Japan Joint Workshop on ICT (2012).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+Verifiable Architectural Interface for Supporting Model-Driven Development with Adequate Abstraction Level,
+4th International Workshop on Modelling in Software Engineering (MiSE 2012) (Workshop at ICSE 2012), pp.15-21 (2012).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+Architectural Point Mapping for Design Traceability,
+11th Workshop on Foundations of Aspect-Oriented Languages (FOAL 2012) (Workshop at AOSD 2012), pp.39-43 (2012).
+
+\item Shizuka Uchio, Naoyasu Ubayashi, and Yasutaka Kamei:
+CJAdviser: SMT-based Debugging Support for ContextJ*,
+3rd Workshop on Context-Oriented Programming (COP 2011) (Workshop at ECOOP 2011) (2011).
+
+\item Naoyasu Ubayashi:
+A Context Analysis Method for Developing Secure Embedded Systems,
+7th International Workshop on Software Engineering for Secure Systems (SESS 2011) (Workshop at ICSE 2011), poster (2011).
+
+\item Naoyasu Ubayashi:
+A Modularity Assessment Framework for Context-dependent Formal Specifications,
+4th Workshop on Assessment of Contemporary Modularization Techniques(ACoM 2010) (Workshop at SPLC 2010),
+pp.13-14 (2010).
+
+\item Shin Nakajima, Keiji Hokamura, and Naoyasu Ubayashi:
+Aspect-Oriented Development of PHP-based Web Applications,
+4th IEEE International Workshop on Quality Oriented Reuse of Software(QUORS 2010) (Workshop at COMPSAC 2010),
+pp.37-44 (2010).
+
+\item Naoyasu Ubayashi, Hidenori Akatoki, and Jun Nomura:
+Pointcut-based Architectural Interface for Bridging a Gap between Design and Implementation,
+In {\em Proceedings of 6th ECOOP 2009 Workshop on Reflection, AOP and Meta-Data for Software Evolution (RAM-SE'09)} (2009).
+
+\item Shin Nakajima, Naoyasu Ubayashi, and Keiji Hokamura:
+Runtime Monitoring of Cross-cutting Policy,
+In {\em Proceedings of Early Aspects at ICSE: Aspect-Oriented Requirements Engineering and Architecture Design (EA 2009)} (Workshop at ICSE 2009) (2009).
+
+\item Naoyasu Ubayashi, Toshiki Seto, Hirotoshi Kanagawa, Susumu Taniguchi, Jun Yoshida, Takeshi Sumi, and Masayuki Hirayama:
+A Context Analysis Method for Constructing Reliable Embedded Systems,
+In {\em Proceedings of Workshop on Modeling in Software Engineering (MISE 2008)} (Workshop at ICSE 2008),
+pp.57-63 (2008).
+[acceptance rate: 13 of 30 (43\%)]
+
+\item Shin Nakajima and Naoyasu Ubayashi:
+Lightweight Formal Analysis of FODA Feature Diagrams,
+In {\em Proceedings of the 4th International Workshop on Rapid Integration of Software Engineering techniques (RISE 2007)},
+pp.3-18 (2007).
+
+\item Naoyasu Ubayashi, Yusaku Maeno, Kazuhide Noda, and Genya Otsubo:
+A Verification Mechanism for Weaving in Extensible AOM Languages,
+In {\em Proceedings of the 2nd International Workshop on Aspects, Dependencies and Interactions (ADI'07)} (Workshop at ECOOP 2007),
+pp.36-41 (2007).
+
+\item Naoyasu Ubayashi, Shinji Sano, and Genya Otsubo:
+A Reflective Aspect-oriented Model Editor Based on Metamodel Extension,
+Workshop on Modeling in Software Engineering (MISE 2007) (Workshop at ICSE 2007) (2007).
+[acceptance rate: 12 of 29 (41\%)]
+
+\item Naoyasu Ubayashi, Akihiro Sakai, and Tetsuo Tamai:
+An Interface Mechanism for Encapsulating Weaving in Class-based AOP,
+Software Engineering Properties of Language and Aspect Technologies (SPLAT 2007) (Workshop at AOSD 2007) (2007).
+
+\item Suguru Shinotsuka, Naoyasu Ubayashi, Hideaki Shinomi, and Tetsuo Tamai:
+An Extensible Contract Verifier for AspectJ,
+In {\em Proceedings of the 2nd Asian Workshop on Aspect-Oriented Software Development (AOAsia 2)} (Workshop at ASE 2006),
+pp.35-40 (2006).
+
+\item Naoyasu Ubayashi and Shin Nakajima:
+Separation of Context Concerns --- Applying Aspect Orientation to VDM,
+Second Overture (Open Source Formal Methods Tools) Workshop (Workshop at FM'06)
+(2006).
+
+\item Naoyasu Ubayashi, Tetsuo Tamai, Shinji Sano, Yusaku Maeno, and Satoshi Murakami:
+Model Evolution with Aspect-Oriented Mechanisms,
+In {\em Proceedings of International Workshop on Principles of Software Evolution (IWPSE 2005)} (Workshop at ESEC/FSE 2005),
+IEEE Computer Society,
+pp.187-194 (2005).
+[acceptance rate: 13 of 54 (24\%)]
+
+\item Naoyasu Ubayashi and Tetsuo Tamai:
+Concern Management for Constructing Model Compilers,
+In {\em Proceedings of the 1st International Workshop on the Modeling and Analysis of Concerns in Software (MACS 2005)} (Workshop at ICSE 2005),
+{\em ACM SIGSOFT Software Engineering Notes}, vol.30, issue 4 (2005).
+
+\item Tetsuo Tamai, Naoyasu Ubayashi, and Ryoichi Ichiyama:
+An Adaptive Object Model with Dynamic Role Binding,
+In {\em Proceedings of Workshop on New Approaches to Software Construction (WNASC 2004)},
+pp.103-121 (2004).
+
+\item Naoyasu Ubayashi, Hidehiko Masuhara, and Tetsuo Tamai:
+An AOP Implementation Framework for Extending Join Point Models,
+In {\em Proceedings of the ECOOP'2004 Workshop on Reflection, AOP and Meta-Data for Software Evolution (RAM-SE'04)},
+pp.71-81 (2004).
+\end{itemize}
+
+%----------------------------------------------------------------------
+\subsection{国際ワークショップ (査読なし)}
+
+\begin{itemize}
+\item Naoyasu Ubayashi, Jun Nomura, and Tetsuo Tamai:
+Archface: A Contract Place Where Architectural Design and Code Meet Together (ICSE 2010 paper [Presentation only]),
+AOAsia/Pacific'10 (2010).
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{和文論文}
+
+%----------------------------------------------------------------------
+\subsection{論文誌 (査読つき)}
+
+\begin{itemize}
+\item 角田 雅照, 戸田 航史, 伏田 享平, 亀井 靖高, Meiyappan Nagappan, 鵜林 尚靖:
+上流工程での活用実績を用いたソフトウェア開発工数見積もり方法の定量的評価 [FOSE2012 推薦論文],
+日本ソフトウェア科学会誌 コンピュータソフトウェア,
+vol.31, no.2, pp.129-143 (2014).
+
+\item 小林 寛武, 戸田 航史, 亀井 靖高, 門田 暁人, 峯 恒憲, 鵜林尚靖:
+11種類のfault密度予測モデルの実証的評価,
+電子情報通信学会誌,
+vol.J96-D, no.8, pp.1892-1902 (2013).
+
+\item 三瀬 敏朗, 新屋敷 泰史, 橋本 正明, 中谷 多哉子, 片峯 恵一, 鵜林 尚靖, 吉田 隆一:
+非正常系分析マトリクスによるソフトウェア組込み製品の障害シナリオ抽出手法,
+電子情報通信学会誌,
+vol.J95-D, no.11, pp.1897-1908 (2012).
+
+\item 内尾 静, 鵜林 尚靖, 亀井 靖高:
+SMTソルバーを用いたコンテキスト指向プログラミングのためのデバッグ支援 [レター論文],
+日本ソフトウェア科学会誌 コンピュータソフトウェア,
+vol.29, no.3, pp.108-114 (2012).
+
+\item 塩塚 大, 鵜林 尚靖, 亀井 靖高:
+dcNavi: デバッグを支援する関心事指向推薦システム,
+情報処理学会論文誌,
+vol.53, no.2, pp.631-643 (2012).
+
+\item 伊原 彰紀, 亀井 靖高, 大平 雅雄, 松本 健一, 鵜林 尚靖:
+OSSプロジェクトにおける開発者の活動量を用いたコミッター候補者予測,
+電子情報通信学会誌,
+vol.J95-D, no.2, pp.237-249 (2012).
+
+\item 亀井 靖高, 大平 雅雄, 伊原 彰紀, 小山 貴和子, まつ本 真佑, 松本 健一, 鵜林 尚靖:
+グローバル環境下におけるOSS開発者の情報交換に対する時差の影響,
+情報社会学会学会誌,
+vol.6, no.2, pp.13-30 (2011).
+
+\item 鵜林 尚靖, 岸 知二:
+特集「未来志向のソフトウェア工学」の編集にあたって,
+情報処理学会論文誌,
+vol.51, no.9, pp.1750 (2010). [巻頭言, 査読無し]
+
+\item 新屋敷 泰史, 三瀬 敏朗, 橋本 正明, 片峯 恵一, 鵜林 尚靖, 中谷 多哉子:
+情報フロー・ダイアグラムによる組込みソフトウェア非正常系の要求分析の一手法,
+情報処理学会論文誌, vol.48, no.9, pp.2894-2903 (2007).
+
+\item 鵜林 尚靖, 金川 太俊, 瀬戸 敏喜, 中島 震, 平山 雅之:
+コンテキストベース・プロダクトライン開発とVDM++の適用,
+情報処理学会論文誌,
+vol.48, no.8, pp.2492-2507 (2007).
+
+\item 篠塚 卓，鵜林 尚靖，四野見 秀明，玉井 哲雄:
+契約によるクラスとアスペクト間の影響解析,
+日本ソフトウェア科学会誌 コンピュータソフトウェア,
+vol.24, no.2, pp.133-149 (2007).
+
+\item 小松 由香里, 吉原 真也, 石橋 慶一, 秋山 義博, 中谷 多哉子, 片峯 恵一, 鵜林 尚靖, 橋本正明:
+QFDによる組込みソフトウェア分析・設計の品質管理モデリングに関する一考察,
+プロジェクトマネジメント学会誌,
+vol.7, no.5, pp.15-20 (2005).
+
+\item 鵜林 尚靖, 玉井 哲雄:
+アスペクト指向プログラミングへのモデル検査手法の適用,
+情報処理学会論文誌,
+vol.43, no.6, pp.1598-1609 (2002).
+
+\item 鵜林 尚靖, 玉井 哲雄:
+ロール概念に基づく発展型移動エージェント,
+日本ソフトウェア科学会誌 コンピュータソフトウェア80-1,
+pp.61-65 (2001).
+
+\item 鵜林 尚靖, 玉井 哲雄:
+動的な役割変化を考慮したオブジェクト間の協調動作とそのモジュール化メカニズム,
+電子情報通信学会和文論文誌,
+vol.J82-D-I, no.6, pp.718-729 (1999).
+
+\item 鵜林 尚靖, 玉井 哲雄:
+オブジェクト間協調に基づく環境適応型プログラミング言語Edenの設計,
+情報処理学会論文誌 プログラミング,
+vol.39 No.SIG1 (PRO1) pp.50-60 (1998).
+
+\item 鵜林 尚靖, 大木 敦雄, 久野 靖:
+オブジェクト間の協調動作を表現する計算モデルと並列言語,
+電子情報通信学会和文論文誌,
+vol.J79-D-I, no.10, pp.625-634 (1996).
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+\subsection{シンポジウム, ワークショップ (査読つき)}
+
+\begin{itemize}
+\item 深町 拓也, 鵜林 尚靖, 亀井 靖高:
+不確かさを包容するJavaプログラミング・テスト環境,
+日本ソフトウエア科学会 第21回ソフトウェア工学の基礎ワークショップ (FOSE 2014), ポスター, to appear (2014).
+
+\item 艾 迪, 鵜林 尚靖, 李 沛源, 李 宇寧, 細合 晋太郎, 亀井 靖高:
+設計抽象化のためのリファクタリング支援 [ショート論文],
+日本ソフトウエア科学会 第21回ソフトウェア工学の基礎ワークショップ (FOSE 2014), to appear (2014).
+
+\item 小須田 光, 亀井 靖高, 鵜林 尚靖:
+クラッシュレポートの送信頻度が不具合との関連付けに与える影響,
+日本ソフトウエア科学会 第21回ソフトウェア工学の基礎ワークショップ (FOSE 2014), to appear (2014).
+
+\item 黄 長贇, 鵜林 尚靖, 細合 晋太郎, 亀井 靖高:
+対話的なDSL構築環境Argyle,
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2014 (SES 2014), ポスター (2014).
+
+\item 大坂 陽, 亀井 靖高, 堀田 圭佑, 鵜林 尚靖:
+ソフトウェア工学研究に対するHPC利用の効果 - コードクローン研究の事例を通して -,
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2014 (SES 2014), ポスター (2014).
+
+\item 鵜林 尚靖:
+不確かさを包容するモデル駆動開発機構,
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2014 (SES 2014) ワークショップ「モデル駆動で開発しようー実適用における課題と先端技術」 (2014).
+
+\item 大坂 陽, 伊原 彰紀, 亀井 靖高, 鵜林 尚靖:
+OSS開発におけるパッチレビュープロセス追跡技術の提案,
+情報処理学会ソフトウェア工学研究会 ウィンターワークショップ2014・イン・大洗, pp.19-20 (2014).
+
+\item 山下 一寛, 亀井 靖高, 鵜林 尚靖:
+リポジトマイニング研究への高速化手法適用に向けた検討,
+情報処理学会ソフトウェア工学研究会 ウィンターワークショップ2014・イン・大洗, pp.27-28 (2014).
+
+\item 鵜林 尚靖, 亀井 靖高:
+言語ゲームに学ぶソフトウェア工研究の新たな評価スタイル,
+情報処理学会ソフトウェア工学研究会 ウィンターワークショップ2014・イン・大洗, pp.65-66 (2014).
+
+\item 艾 迪, 李 沛源, 細合 晋太郎, 亀井 靖高, 鵜林 尚靖:
+iArch: 滑らかな設計抽象化を支援するIDE [ライブ論文],
+日本ソフトウエア科学会 第20回ソフトウェア工学の基礎ワークショップ (FOSE 2013), pp.293-294 (2013).
+
+\item 亀井 靖高, 長本 貴光, ラピュト シャシャンク, 小須田 光, 伊原 彰紀, 鵜林 尚靖:
+クラッシュリポジトリマイニング--ソースコード欠陥箇所の特定に向けて-- [ショート論文],
+日本ソフトウエア科学会 第20回ソフトウェア工学の基礎ワークショップ (FOSE 2013), pp.173-178 (2013).
+
+\item 大坂 陽，山下 一寛，亀井 靖高，鵜林 尚靖:
+リポジトリマイニングに対するHadoopの導入に向けた性能評価,
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2013 (SES 2013)  [最優秀論文賞受賞] (2013).
+
+\item 鵜林 尚靖, 亀井 靖高:
+ソフトウェア工学研究のための共通問題集の提案,
+情報処理学会ソフトウェア工学研究会 ウィンターワークショップ2013・イン・那須, pp.79-80 (2013).
+
+\item 山下 一寛，亀井 靖高，久住 憲嗣，鵜林 尚靖:
+リポジトリマイニングにおける3つの進化に対応した分析ツールE-CUBEの構築,
+日本ソフトウエア科学会 第19回ソフトウェア工学の基礎ワークショップ (FOSE 2012) ポスター・デモ (2012).
+
+\item 黄 長贇，亀井 靖高，久住 憲嗣，鵜林 尚靖:
+Alloyを用いたリポジトリマイニング向けDSLの構築支援,
+日本ソフトウエア科学会 第19回ソフトウェア工学の基礎ワークショップ (FOSE 2012) ポスター・デモ (2012).
+
+\item 永野 梨南，亀井 靖高，久住 憲嗣，鵜林 尚靖，福田 晃:
+リポジトリマイニングにおけるGPGPUの利用とその効果,
+日本ソフトウエア科学会 第19回ソフトウェア工学の基礎ワークショップ (FOSE 2012) ポスター・デモ (2012).
+
+\item 中村 央記，亀井 靖高，久住 憲嗣，鵜林 尚靖，福田 晃:
+リポジトリマイニングのための外部ドメイン専用言語の提案,
+日本ソフトウエア科学会 第19回ソフトウェア工学の基礎ワークショップ (FOSE 2012) ポスター・デモ (2012).
+
+\item 山下 一寛, 亀井 靖高, 久住 憲嗣, 鵜林 尚靖:
+リポジトリマイニング向けドメイン専用言語ArgyleJの開発と実証的評価,
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2012 (SES 2012) (2012).
+
+\item 永野 梨南, 中村 央記, 亀井 靖高, ブラム アダムス, 久住 憲嗣, 鵜林 尚靖, 福田 晃:
+GPGPUを用いたリポジトリマイニングの高速化手法 －プロセスメトリクスの算出への適用 －,
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2012 (SES 2012) (2012).
+
+\item 鵜林 尚靖, 亀井 靖高:
+図書館問題 2.0: ソフトウェア工学研究における共通問題例,
+情報処理学会ソフトウェア工学研究会 ウィンターワークショップ2012・イン・琵琶湖, pp.129-130 (2012).
+
+\item 内尾 静, 鵜林 尚靖, 亀井 靖高:
+SMTベースのCOPデバッグ支援,
+日本ソフトウェア科学会 第18回ソフトウェア工学の基礎ワークショップ (FOSE 2011), pp.11-20 (2011).
+
+\item 福田 哲志, 末安 史親, 庭木 勝也, 森田 健治, 久住 憲嗣, 峯 恒憲, 鵜林 尚靖, 平山 雅之, 濱田 直樹, 二上 貴夫:
+飛行船自動航行システム開発におけるSysMLを用いたモデル駆動開発事例,
+情報処理学会 組込みシステムシンポジウム2011 (ESS 2011) (2011).
+
+\item 塩塚 大, 鵜林 尚靖, 亀井 靖高:
+オープンソースリポジトリのバグ修正履歴を再利用したデバッグ推薦の評価実験 [ショート論文],
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2011 (SES 2011) (2011).
+
+\item 廣重 法道, 峯 恒憲, 日下部 茂, 鵜林 尚靖, 福田 晃:
+PBLでのコミュニケーション分析,
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2011 (SES 2011) ワークショップ「ソフトウェア工学教育」 (2011).
+
+\item 鵜林 尚靖:
+ソフトウェア工学研究におけるグランドチャレンジ,
+情報処理学会ソフトウェア工学研究会 ウィンターワークショップ2011・イン・修善寺, pp.137-138 (2011).
+
+\item 塩塚 大, 鵜林 尚靖:
+dcNavi: デバッグ方法をアドバイスする関心事指向リポジトリナビゲータ,
+ソフトウェアテストシンポジウム2010九州 (JaSST'10 Kyushu) ポスター発表 (2010).
+
+\item 塩塚 大, 鵜林 尚靖:
+デバッグ支援のためのグラフベース推薦システム [ショート論文],
+日本ソフトウェア科学会 第17回ソフトウェア工学の基礎ワークショップ (FOSE 2010), pp.149-154 (2010).
+
+\item 塩塚 大, 鵜林 尚靖:
+dcNavi: デバッグ支援のためのグラフベース推薦システム,
+日本ソフトウェア科学会 第17回ソフトウェア工学の基礎ワークショップ (FOSE 2010) ポスター・デモ (2010).
+
+\item 成瀬 龍人, 野村 潤, 外村 慶二, 鵜林 尚靖, 司代 尊裕, 岩井 明史:
+高度道路交通システム向け開放型分散アスペクト指向フレームワーク [ショート論文],
+日本ソフトウェア科学会 第17回ソフトウェア工学の基礎ワークショップ (FOSE 2010), pp.161-166 (2010)
+
+\item 塩塚 大, 鵜林 尚靖:
+デバッグを支援するための関心事指向推薦システム,
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2010 (SES 2010) ポスター展示 (2010).
+
+\item 廣重 法道, 鵜林 尚靖, 外村 慶二, 福田 晃:
+PBLにおける効果的な振り返りについての分析,
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2010 (SES 2010) ワークショップ「プロジェクト型ソフトウェア開発演習の現状と今後の展望」 (2010).
+
+\item 鵜林 尚靖:
+ソフトウェア工学研究のための評価フレームワーク,
+情報処理学会ソフトウェア工学研究会 ウィンターワークショップ2010・イン・倉敷, pp.151-152 (2010).
+
+\item 野村 潤, 鵜林 尚靖:
+アーキテクチャ記述をカプセル化するインタフェース機構Archface,
+日本ソフトウェア科学会 第16回ソフトウェア工学の基礎ワークショップ (FOSE 2009), pp.107-118 [学生奨励賞受賞] (2009).
+
+\item 塩塚 大, 鵜林 尚靖:
+修正履歴を用いたデバッグ支援システムの提案,
+日本ソフトウェア科学会 第16回ソフトウェア工学の基礎ワークショップ (FOSE 2009) ポスター・デモ (2009).
+
+\item 塩塚 大, 鵜林 尚靖:
+修正履歴を用いたデバッグ/テスト支援システム,
+ソフトウェアテストシンポジウム2009九州 (JaSST'09 Kyushu) ポスター発表 (2009).
+
+\item 成瀬 龍人, 野村 潤, 塩塚 大, 外村 慶二, 鵜林 尚靖, 岩井 明史:
+アスペクト伝搬による開放型分散システムにおける横断的関心事の分離,
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2009 (SES 2009) ポスター展示, pp.192 (2009).
+
+\item 外村 慶二, 鵜林 尚靖, 中島 震:
+実行時要求監視によるスパム型Webロボットの検出,
+日本ソフトウェア科学会 第15回ソフトウェア工学の基礎ワークショップ FOSE2008,
+pp.135-144 [貢献賞受賞] (2008).
+
+\item 中島 震, 鵜林 尚靖, 外村 慶二:
+ビジネス要求の実行時監視,
+日本ソフトウェア科学会 第15回ソフトウェア工学の基礎ワークショップ FOSE2008 ポスター発表 (2008).
+
+\item 外村 慶二, 鵜林 尚靖, 中島 震:
+AOWP: Webアプリケーション開発向けAOP機構,
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2008 (SES2008) ポスター展示, pp.181-182 (2008).
+
+\item 鵜林 尚靖, 金川 太俊, 瀬戸 敏喜, 中島 震, 平山 雅之:
+コンテキストベース・プロダクトライン開発とVDM++の適用,
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2006 (SES2006),
+pp.83-90 (2006).
+
+\item 中谷 多哉子, 三瀬 敏朗, 新屋敷 泰史, 片峯 恵一, 鵜林 尚靖, 橋本 正明:
+実世界分析に基づくシステム化境界の定義,
+日本ソフトウェア科学会 第12回ソフトウェア工学の基礎ワークショップ FOSE2005,
+pp.221-226 (2005).
+
+\item 三瀬 敏朗, 新屋敷 泰史, 橋本 正明, 鵜林 尚靖, 片峯 恵一, 中谷 多哉子:
+組込みソフトウェア非正常系における仕様分析手法の一提案,
+日本ソフトウェア科学会 第12回ソフトウェア工学の基礎ワークショップ FOSE2005,
+pp.227-235 (2005).
+
+\item 森山 元喜, 鵜林 尚靖，玉井哲雄:
+様々なAOPメカニズムをモデル化するパラメータ化インタプリタ,
+日本ソフトウェア科学会 第7回プログラミングおよびプログラミング言語ワークショップ PPL2005,
+pp.187-200 (2005)．
+
+\item 鵜林 尚靖, 佐野 慎治, 前野 雄作, 村上 聡, 片峯 恵一, 橋本 正明, 玉井 哲雄:
+アスペクト指向に基づく拡張可能なMDAモデルコンパイラ,
+情報処理学会 組込みソフトウェアシンポジウム2004 (ESS2004), pp.104-107 (2004).
+
+\item 新屋敷 泰史, 三瀬 敏朗, 江浦 洋平, 畑中 久典, 橋本 正明, 鵜林 尚靖, 片峯 恵一, 中谷 多哉子:
+組み込みソフトウェア非正常系の概念モデル,
+情報処理学会 組込みソフトウェアシンポジウム2004 (ESS2004), pp.8-11 (2004).
+
+\item 三瀬 敏朗, 新屋敷 泰史, 橋本 正明, 鵜林 尚靖, 片峯 恵一, 中谷 多哉子:
+組込みソフトウェア仕様抽出のための非正常系分析マトリクス,
+情報処理学会 組込みソフトウェアシンポジウム2004 (ESS2004), pp.12-19 (2004).
+
+\item 櫻井 孝平, 増原 英彦, 鵜林 尚靖, 松浦 佐江子, 古宮 誠一:
+Association Aspects (AOSD 2004),
+日本ソフトウェア科学会 第6回プログラミングおよびプログラミング言語ワークショップ PPL 2004 (2004).
+(国際会議，学術雑誌等で発表済または採録決定済であるが，国内では未発表の研究の紹介)
+
+\item 鵜林 尚靖, 成田 努, 西片 広之, 久戸瀬 健治, 川手 正巳, 濱田 延彦:
+要求獲得・洗練プロセスへのXPの適用,
+オブジェクト指向最前線(近代科学社) 情報処理学会 OO 2003シンポジウム,
+pp.85-92 (2003).
+
+\item 細谷 竜一, 東 秀明, 鵜林 尚靖, 関 武夫, 張 嵐, 吉田 和樹:
+APF：コンポーネントベース開発ソリューション(デモセッション),
+オブジェクト指向最前線(近代科学社) 情報処理学会 OO 2002シンポジウム,
+pp.201-202 (2002).
+
+\item 鵜林 尚靖, 玉井 哲雄:
+アスペクト指向プログラミングへのモデル検査手法の適用,
+オブジェクト指向最前線(近代科学社) 情報処理学会 OO 2001シンポジウム,
+pp.41-48 (2001).
+
+\item 鵜林 尚靖, 玉井 哲雄:
+動的発展が可能な協調アーキテクチャの実現方式,
+情報処理学会 OO 2000シンポジウム,
+pp.41-48 (2000).
+
+\item 鵜林 尚靖, 玉井 哲雄:
+環境適応概念に基づく発展型協調計算,
+日本ソフトウェア科学会 第1回プログラミングおよびプログラミング言語ワークショップ PPL'99,
+pp.81-90 (1999).
+
+\item 鵜林 尚靖, 玉井 哲雄:
+オブジェクト間協調に基づく環境適応型計算モデル,
+オブジェクト指向最前線(朝倉書店) 情報処理学会 OO'98シンポジウム,
+pp.141-149 (1998).
+
+\item 鵜林 尚靖, 玉井 哲雄:
+自己反映計算に基づく環境主導型協調計算モデルCWA,
+日本ソフトウェア科学会
+第13回オブジェクト指向計算ワークショップ WOOC'97,
+(1997).
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+\subsection{研究会 (査読なし)}
+
+\begin{itemize}
+\item 田中 秀太郎, 福島 崇文, 山下 一寛, 亀井 靖高, 鵜林 尚靖:
+Just-In-Time欠陥予測支援ツール anko,
+電子情報通信学会 信学技報 SS2014-XX, to appear (2015).
+
+\item 大坂 陽, 亀井 靖高, 堀田 圭佑, 鵜林 尚靖:
+コードクローン解析に対するスーパーコンピュータ導入に向けた試行実験,
+電子情報通信学会 信学技報 SS2014-XX, to appear (2015).
+
+\item 大迫 周平, 亀井 靖高, 細合 晋太郎, 石田 繁巳, 鵜林 尚靖, 福田 晃:
+テキストマイニングを用いた価値創造教育カリキュラムの効果分析,
+情報処理学会 研究報告 2014-SE-186, No.8 (2014).
+
+\item 大迫 周平, 孔 維強, 亀井 靖高, 細合 晋太郎, 石田 繁巳, 鵜林 尚靖, 福田晃:
+テキストマイニングによるPBL発表会評価アンケート傾向分析,
+日本ソフトウェア科学会第31回大会 (2014).
+
+\item 細合 晋太郎, 石田 繁巳, 亀井 靖高, 大迫 周平, 井垣 宏, 鵜林 尚靖, 福田 晃:
+IoTを題材としたPBLの実施と分析,
+日本ソフトウェア科学会第31回大会 (2014).
+
+\item 艾 迪, 鵜林 尚靖, 李 沛源, 李 宇寧, 細合 晋太郎, 亀井 靖高:
+設計抽象化のためのリファクタリングパターン,
+情報処理学会 研究報告 2014-SE-185, No.19 (2014).
+
+\item 細合 晋太郎, 石田 繁巳, 亀井 靖高, 大迫 周平, 井垣 宏, 鵜林 尚靖, 福田 晃:
+IoTシステムを題材としたPBLの導入提案,
+情報処理学会 研究報告 2014-SE-185, No.7 (2014).
+
+\item 大迫 周平, 亀井 靖高, 細合 晋太郎, 加藤 公敬, 石塚 昭彦, 坂口 和敏, 川高 美由紀, 森田 昌嗣, 鵜林 尚靖, 福田 晃:
+PBLにおけるデザイン思考適用の効果と課題,
+情報処理学会 研究報告 2014-SE-184, No.2 (2014).
+
+\item 大坂 陽, 伊原 彰紀, 亀井 靖高, 松本 健一, 鵜林 尚靖:
+パッチレビュープロセスにおけるパッチ作成者の継続性の違い,
+情報処理学会 研究報告 2014-SE-184, No.6 (2014).
+
+\item 川島 関夫, 亀井 靖高, 鵜林 尚靖:
+開発メーリングリストマイニングの前処理システムの開発,
+情報処理学会 研究報告 2014-SE-183, No.19 (2014).
+
+\item 小須田 光, 亀井 靖高, 伊原 彰紀, 鵜林 尚靖:
+クラッシュレポートが不具合修正に与える影響の分析,
+情報処理学会 研究報告 2014-SE-183, No.20 (2014).
+
+\item 久住 憲嗣, 細合 晋太郎, 孔 維強, 築添 明, 鵜林 尚靖, 福田 晃, 渡辺 晴美, 元木 誠, 小倉 信彦, 三輪 昌史:
+コンテストを活用した連合型Project Based Learningカリキュラム,
+情報処理学会 研究報告 2014-EMB-32, No.34 (2014).
+
+\item 黄 長贇, 亀井 靖高, 鵜林 尚靖:
+DSLラインエンジニアリング支援環境の設計,
+電子情報通信学会 信学技報 SS2013-89, pp.103-108 (2014).
+
+\item 田中 秀太郎, 山下 一寛, 亀井 靖高, 鵜林 尚靖:
+変更レベルに着目したバグ予測支援ツールの設計と実装,
+電子情報通信学会 信学技報 SS2013-67, pp.113-118 (2014).
+
+\item 福島 崇文, 亀井 靖高, 鵜林 尚靖:
+ソフトウェア開発プロジェクトをまたがるJust-In-Timeバグ予測の実験的評価,
+情報処理学会 研究報告 2013-SE-182, No.21 (2013).
+
+\item 大迫 周平, 亀井 靖高, 細合 晋太郎, 加藤 公敬, 石塚 昭彦, 坂口 和敏, 川高 美由紀, 森田 昌嗣, 鵜林 尚靖, 福田晃:
+PBLにおけるデザイン思考の導入事例,
+情報処理学会 研究報告 2013-SE-182, No.22 (2013).
+
+\item 久住 憲嗣，細合 晋太郎，渡辺 晴美，元木 誠，小倉 信彦，三輪 昌史，孔 維強，築添 明，鵜林 尚靖，福田 晃:
+コンテストチャレンジ型組込みシステム開発PBLカリキュラムの開発,
+日本ソフトウェア科学会第30回大会，enPiT特別セッション (2013).
+
+\item 鵜林 尚靖, 艾 迪, 細合 晋太郎, 亀井 靖高:
+滑らかな設計抽象化,
+電子情報通信学会 信学技報 SS2013-19, pp.37-42 (2013).
+
+\item 細合 晋太郎, 亀井 靖高, 大迫 周平, 井垣 宏, 鵜林 尚靖, 福田 晃:
+PBLへのDaaS開発環境の導入事例,
+電子情報通信学会 信学技報 SS2013-30, pp.103-108 (2013).
+
+\item 亀井 靖高, 細合 晋太郎, 大迫 周平, 川高 美由紀, 西川 忠行, 鵜林 尚靖, 福田 晃:
+PBLにおける発想法とロジカルシンキングの導入事例,
+情報処理学会 研究報告 2013-SE-181, No.4 (2013).
+
+\item 大坂 陽, 山下 一寛, 亀井 靖高, 鵜林 尚靖:
+リポジトリマイニングに対するHadoopの性能評価,
+情報処理学会 研究報告 2013-SE-179, No.21 (2013).
+
+\item 長本 貴光, 亀井 靖高, 伊原 彰紀, 鵜林 尚靖:
+クラッシュログを用いたソースコード不具合箇所の特定に向けた分析,
+情報処理学会 研究報告 2013-SE-179, No.12 (2013).
+
+\item 山下 一寛, 亀井 靖高, 久住 憲嗣, 鵜林 尚靖:
+リポジトリマイニングの進化に対応した分析ツールE-CUBEの構築,
+電子情報通信学会 信学技報 KBSE2012-50, pp.73-78 (2012).
+
+\item 黄 長贇, 中城 亮祐, 山下 一寛, 亀井 靖高, 久住 憲嗣, 鵜林 尚靖:
+Alloyによるリポジトリマイニング向けドメイン専用言語の構築支援,
+電子情報通信学会 信学技報 SS2012-23, pp.79-84 (2012).
+
+\item 中村 央記, 永野 梨南, 久住 憲嗣, 亀井 靖高, 鵜林 尚靖, 福田 晃:
+GPGPUを用いたリポジトリマイニングのための外部ドメイン専用言語QORALの提案,
+電子情報通信学会 信学技報 SS2012-3, pp.13-18 (2012).
+
+\item 山下 一寛, 山本 大輔, 亀井 靖高, 久住 憲嗣, 鵜林 尚靖:
+リポジトリマイニング向けドメイン専用言語の設計と実装,
+電子情報通信学会 信学技報 SS2011-81, pp.145-150 (2012).
+
+\item 亀井 靖高, 鵜林 尚靖:
+ソフトウェア変更に対するバグ予測モデルの精度評価,
+電子情報通信学会 信学技報 SS2011-72, pp.91-96 (2012).
+
+\item 鵜林 尚靖, 亀井 靖高:
+アーキテクチャ点写像による設計・コード間の双方向追跡,
+電子情報通信学会 信学技報 SS2011-42, pp.15-20 (2012).
+
+\item Ryosuke Nakashiro, Yasutaka Kamei, Naoyasu Ubayashi, Shin Nakajima, and Akihito Iwai:
+Verification of BPEL Workflows Design using Model Checking,
+Joint Workshop on Software Science and Engineering,
+電子情報通信学会 信学技報 SS2011-2, pp.7-10 (2011).
+
+\item 三瀬 敏朗, 新屋敷 泰史, 橋本 正明, 片峯 恵一, 中谷 多哉子, 鵜林 尚靖:
+非正常系現象に着目した分析マトリクスによるソフトウェア組込み製品の障害シナリオ抽出手法,
+電子情報通信学会 信学技報 KBSE2010-50, pp.19-24 (2011).
+
+\item 塩塚 大, 鵜林 尚靖:
+オープンソースリポジトリにおけるバグ修正履歴の再利用性評価,
+電子情報通信学会 信学技報 SS2010-61, pp.49-54 (2011).
+
+\item 福田 哲志, 末安 史親, 庭木 勝也, 森田 健治, 久住 憲嗣, 峯 恒憲, 鵜林 尚靖, 平山 雅之, 濱田 直樹, 二上 貴夫:
+飛行船自動航行システム開発におけるSysMLを用いたプロセス改善事例,
+電子情報通信学会 信学技報 SS2010-78, pp.151-156 (2011).
+
+\item 廣重 法道, 鵜林 尚靖, 外村 慶二, 福田 晃:
+九州大学における先導的ＰＢＬ教育の分析評価,
+情報処理学会 研究報告 2010-SE-170, No.22 (2010).
+
+\item 野村 潤, 成瀬 龍人, 外村 慶二, 鵜林 尚靖, 司代 尊裕, 岩井 明史:
+形式的洗練パターンによるコンポーネントベース・ゴールモデリング手法,
+電子情報通信学会 信学技報 SS2010-30, pp.13-18 (2010).
+
+\item 塩塚 大, 鵜林 尚靖:
+デバッギングのための関心事指向推薦システム,
+電子情報通信学会 信学技報 SS2010-19, pp.17-22 (2010).
+
+\item 外村 慶二, 鵜林 尚靖, 中島 震, 岩井 明史:
+ジョインポイント写像によるドメイン特化AOP機構の開発手法,
+情報処理学会 研究報告 2010-SE-169, No.3 (2010).
+
+\item 成瀬 龍人, 野村 潤, 外村 慶二, 鵜林 尚靖, 司代 尊裕, 岩井 明史:
+開放型分散アスペクト指向フレームワークの高度道路交通システムへの適用,
+電子情報通信学会 信学技報 SS2009-35, pp.1-6 (2009).
+
+\item 野村 潤, 成瀬 龍人, 外村 慶二, 鵜林 尚靖, 司代 尊裕, 岩井 明史:
+自律分散型道路交通システムを対象としたゴール指向要求分析手法,
+電子情報通信学会 信学技報 KBSE2009-33, pp.13-18 (2009).
+
+\item 堀 昭三, 中谷 多哉子, 片峯 恵一, 鵜林 尚靖, 橋本正明:
+要求獲得に起因するスケジュール遅れを防ぐためのPMパターンに関して,
+電子情報通信学会 信学技報 KBSE2009-40, pp.55-60 (2009).
+
+\item 塩塚 大, 鵜林 尚靖:
+テスト駆動開発を支援するためのデバッグ関心事グラフ,
+電子情報通信学会 信学技報 KBSE2009-46, pp.91-96 (2009).
+
+\item 外村 慶二:
+Webアプリケーションの特性とAOP,
+組木シンポジウム -- ソフトウェアのコンポジション技術の最前線 -- (2009).
+
+\item 岸 知二, 鵜林 尚靖, 野田 夏子, 山城 明宏, 石尾 隆, 吉岡 信和, 田原 康之, 豊島 真澄, 松浦 佐江子, 片峯 恵一, 白銀 純子:
+ソフトウェアエンジニアリングシンポジウム 2009 開催報告,
+情報処理学会 研究報告 2009-SE-166, No.21 (2009).
+
+\item Reda Ahroum, Keiji Hokamura, Daniel Balouek, Shin Nakajima, and Naoyasu Ubayashi:
+Aspectural Encapsulation of Web Application Features,
+電子情報通信学会 信学技報 SS2009-31, pp.13-18 (2009).
+
+\item 片峯 恵一, 新屋敷 泰史, 三瀬 敏朗, 中谷 多哉子, 鵜林 尚靖, 橋本 正明:
+組込みシステム非正常系分析手法の定性推論による定式化,
+電子情報通信学会 信学技報 KBSE2009-27, pp.57-62 (2009).
+
+\item 野村 潤, 鵜林 尚靖:
+アーキテクチャ設計と実装をつなぐインタフェース機構 Archface,
+電子情報通信学会 信学技報 SS2009-15, pp.19-24 (2009).
+
+\item 小林 隆志, 林 晋平, 外村 慶二, 天嵜 聡介:
+第15回アジア太平洋ソフトウェア工学国際会議 (APSEC 2008) 参加報告,
+情報処理学会 研究報告 2009-SE-165, No.9 (2009).
+
+\item 外村 慶二, 成瀬 龍人, 塩塚 大, 白石 卓也, 鵜林 尚靖, 中島 震:
+Webアプリケーション開発向けAOP機構の実装,
+情報処理学会 研究報告 2009-SE-163, pp.65-72 [学生研究賞受賞](2009).
+
+\item 井上 富雄, 三瀬 敏朗, 新屋敷 泰史, 橋本 正明, 片峯 恵一, 鵜林 尚靖, 中谷 多哉子:
+組込みシステム非正常系分析のためのIFDと分析マトリクスを統合した定式化,
+電子情報通信学会 信学技報 KBSE2008-24, pp.7-12 (2008).
+
+\item 久保 純哉, 井上 富雄, 三瀬 敏朗, 新屋敷 泰史, 橋本 正明, 片峯 恵一, 鵜林 尚靖, 中谷 多哉子:
+組込みシステム非正常系分析におけるQFDとガイドワード関する考察,
+電子情報通信学会 信学技報 KBSE2008-23, pp.1-6 (2008).
+
+\item 外村 慶二, 鵜林 尚靖, 中島 震:
+AOPによるWebアプリケーションの要求監視,
+電子情報通信学会 信学技報 SS2008-14, pp.7-12 (2008).
+
+\item 佐藤 友紀, 鵜林 尚靖:
+関心事指向アーキテクチャモデリング環境,
+電子情報通信学会 信学技報 SS2008-13, pp.1-6 (2008).
+
+\item 中島 震, 鵜林 尚靖, 外村 慶二:
+要求違反の実行時監視と原因診断,
+日本ソフトウェア科学会 第6回ディペンダブルシステムワークショップ (DSW'08 summer) 論文集, pp.79-82 (2008).
+
+\item 境 顕宏, 鵜林 尚靖, 中島 震:
+RBACモデルの形式検証と修正支援,
+情報処理学会 研究報告 2008-SE-159 (2008).
+
+\item 三瀬 敏朗, 新屋敷 泰史, 中谷 多哉子, 片峯 恵一, 鵜林 尚靖, 橋本 正明:
+高品質組込みソフトウェア設計における非機能要求に着目したプロジェクトマネジメント,
+プロジェクトマネジメント学会 2008年度春季研究発表大会 (2008).
+
+\item 堀 昭三, 中谷 多哉子, 片峯 恵一, 鵜林 尚靖, 橋本 正明:
+効率的な要求獲得によるリスク回避の実証研究,
+プロジェクトマネジメント学会 2008年度春季研究発表大会 (2008).
+
+\item 瀬戸 敏喜, 金川 太俊, 谷口 奨, 吉田 純, 鵜林 尚靖:
+ディペンダブル組込みシステムのためのコンテキスト分析手法,
+情報処理学会 ソフトウェア工学研究会 ウィンターワークショップ 2008・イン・道後 (2008).
+
+\item 外村慶二, 鵜林尚靖:
+Webコントローラ層におけるアスペクト指向プログラミング,
+電子情報通信学会 信学技報 SS2007-53, pp.91-96 (2007).
+
+\item 堀 昭三, 中谷 多哉子, 片峯 恵一, 鵜林 尚靖, 橋本 正明:
+レストラン注文システムにおける統合型要求プロセスの調査,
+電子情報通信学会 信学技報 KBSE2007-29, pp.13-18 (2007)
+
+\item 谷本 真樹, 新屋敷 泰史, 三瀬 敏朗, 橋本 正明, 鵜林 尚靖, 片峯 恵一,中谷 多哉子:
+情報フロー・ダイアグラムと分析マトリクスを統合した組込みソフトウェア非正常系要求分析手法の適用事例と考察,
+電子情報通信学会 信学技報 KBSE2007-32, pp.31-36 (2007)
+
+\item 中島 震, 鵜林 尚靖:
+ＦＯＤＡフィーチャダイアグラムの自動検査法,
+第4回システム検証の科学技術シンポジウム ポスター (2007)
+
+\item 金川 太俊, 瀬戸 敏喜, 谷口 奨, 吉田 純, 鵜林 尚靖, 鷲見 毅, 平山 雅之:
+組込みシステムの外部環境に着目した動作仕様検証,
+電子情報通信学会 信学技報 SS2007-32, pp.13-18 (2007).
+
+\item 石橋 慶一, 白土 龍馬, 朝稲 啓太, 橋本 正明, 秋山 義博, 中谷 多哉子, 鵜林 尚靖, 片峯 恵一, 宮下 雄士:
+プロジェクトマネジメント手法定着のための人的資源マネジメントに関する一考察 〜組織−個人統合モデルの提案による定着過程の分析〜,
+プロジェクトマネジメント学会 2007年度秋季研究発表大会 (2007).
+
+\item 中島 震, 鵜林 尚靖:
+FODAフィーチャー・ダイアグラムの形式化と検査の自動化,
+電子情報通信学会 信学技報 KBSE2007-24, pp.55-60 (2007)
+
+\item 橋本 正明, 栗山 次郎, 廣田 豊彦, 鵜林 尚靖, 井本 祐二, 片峯 恵一:
+哲学ゼミの１０年から見たソフトウェア・モデリングの一考察,
+電子情報通信学会 信学技報 KBSE2007-19, pp.27-30 (2007)
+
+\item 金川 太俊:
+組込みシステムにおける外部環境分析と形式手法の適用,
+第9回 組込みシステム技術に関するサマーワークショップ SWEST9,
+ポスター発表, pp.61-64 [プレゼンテーション賞受賞] (2007).
+
+\item 堀 昭三, 中谷 多哉子, 片峯 恵一, 鵜林 尚靖, 橋本 正明:
+統合型要求工学の実証研究に向けて,
+電子情報通信学会 信学技報 KBSE2007-5, pp.25-28 (2007)
+
+\item 朴 金姫, 篠塚 卓, 鵜林 尚靖:
+契約に基づいたアスペクト指向リファクタリングの検証,
+情報処理学会 研究報告 2007-SE-155, pp.25-32 (2007).
+
+\item 前野 雄作, 鵜林 尚靖:
+拡張可能なアスペクト指向モデリングにおける織り合わせの検証,
+情報処理学会 研究報告 2007-SE-155, pp.9-16 (2007).
+
+\item 瀬戸 敏喜, 金川 太俊, 鵜林 尚靖, 鷲見 毅, 平山 雅之:
+組込みシステムの外部環境分析のためのUMLプロファイル,
+情報処理学会 組込技術とネットワークに関するワークショップ ETNET2007,
+情報処理学会 研究報告 2007-EMB-4, pp.65-70 (2007).
+
+\item 境 顕宏，鵜林 尚靖，玉井 哲雄:
+AOP言語への織り込みインターフェイスの導入,
+日本ソフトウェア科学会 第23回大会論文集, CD-ROM (2006).
+
+\item 金川 太俊, 瀬戸 敏喜, 鵜林 尚靖, 鷲見 毅, 平山 雅之:
+組込みシステムにおける外部環境分析の提案,
+第8回 組込みシステム技術に関するサマーワークショップ SWEST8,
+ポスター発表, pp.75-82 (2006).
+
+\item 鷲見 毅, 平山 雅之, 鵜林 尚靖:
+組込みシステムの動作環境の特徴に着目した仕様分析手法の提案,
+情報処理学会 研究報告 2006-EMB-1, pp.7-12 (2006).
+
+\item 吉原 真也, 堀　昭三, 秋山 義博, 中谷 多哉子, 片峯 恵一, 鵜林 尚靖, 橋本 正明:
+組込みソフトウェア開発上流工程における要求トレーサビリティ・モデルを用いた非正常系分析支援,
+プロジェクトマネジメント学会 2006年度春季研究発表大会, pp.119-124 (2006).
+
+\item 石橋 慶一, 白土 竜馬, 朝稲 啓太, 橋本 正明, 秋山 義博, 中谷 多哉子, 鵜林 尚靖, 片峯 恵一:
+ＣＣＰＭ導入事例におけるヒューマンファクタの分析 〜ローラーの期待モデルの適用〜,
+プロジェクトマネジメント学会 2006年度春季研究発表大会, pp.300-305 (2006).
+
+\item 亀谷 秀洋, 新屋敷 泰史, 三瀬 敏朗，橋本 正明，鵜林 尚靖，片峯 恵一，中谷 多哉子:
+情報フロー・ダイアグラムによる組込みソフトウェア非正常系の分析手法,
+電子情報通信学会 信学技報 SS2005-76, pp.1-6 (2006).
+
+\item 石橋 慶一, 吉原 真也, 橋本 正明, 秋山 義博, 中谷 多哉子, 片峯 恵一, 鵜林 尚靖:
+プロジェクト・マネジメントのモデリングに関する考察,
+プロジェクトマネジメント学会 2005年度秋季研究発表大会, pp.300-305 (2005).
+
+\item 篠塚 卓，鵜林 尚靖，四野見 秀明，玉井 哲雄:
+契約によるクラスとアスペクト間の影響解析,
+日本ソフトウェア科学会 第22回大会論文集, CD-ROM (2005).
+
+\item 鷲見 毅, 平山 雅之, 鵜林 尚靖:
+組込みシステムにおける動作条件分析手法の提案,
+電子情報通信学会 信学技報 SS-2005-36, pp.19-24 (2005).
+
+\item 堂園 隼人, 橋本 正明, 鵜林 尚靖, 片峯 恵一:
+SPINによる仕様記述言語の検証,
+電子情報通信学会 信学技報 KBSE2005-8, pp.19-24 (2005).
+
+\item 三瀬 敏朗，新屋敷 泰史，橋本 正明，鵜林 尚靖，片峯 恵一，中谷 多哉子:
+組込みソフト非正常系における基礎モデル及び仕様分析手法の提案，
+情報処理学会 研究報告 2005-SE-147, pp.81-88 (2005).
+
+\item 小松 由香里, 吉原 真也, 秋山 義博, 鵜林 尚靖, 中谷 多哉子, 片峯 恵一, 橋本正明:
+QFDによる組込みソフトウェア分析・設計の品質管理モデリングに関する一考察,
+プロジェクトマネジメント学会 2005 年度春季研究発表大会 (2005).
+
+\item 森山 元喜, 鵜林 尚靖:
+様々なアスペクト指向メカニズムのモデル化を支援するパラメータ化インタプリタ,
+情報処理学会九州支部 火の国シンポジウム 2005, CD-ROM (2005)．
+
+\item 村上 聡, 佐野 慎治, 前野 雄作, 鵜林 尚靖:
+アスペクト指向を用いたモデルコンパイラの作成,
+情報処理学会九州支部 火の国シンポジウム 2005, CD-ROM (2005)．
+
+\item 黒島 善知，鵜林 尚靖:
+エージェントベースモデルによるプロジェクト内行動ポリシーの影響分析，
+情報処理学会九州支部 火の国シンポジウム 2005, CD-ROM (2005)．
+
+\item 鷲見 毅, 平山 雅之, 鵜林 尚靖:
+組込みシステムにおける外部環境の分析,
+情報処理学会 研究報告 2004-SE-146, pp.33-40 (2004).
+
+\item 伊藤 剛，橋本 正明，鵜林 尚靖，片峯 恵一:
+グラフ型図面理解システム構築のためのドメイン分析・モデリング，
+情報処理学会 研究報告 2004-SE-146 (2004).
+
+\item 佐野 慎治, 前野 雄作, 村上 聡, 鵜林 尚靖, 片峯 恵一, 橋本 正明:
+アスペクト指向に基づくMDAモデルコンパイラとその実装,
+電子情報通信学会 信学技報 KBSE2004-15, pp.1-6 (2004).
+
+\item 岩崎 俊宏, 橋本 正明, 鵜林 尚靖:
+ミドルウェアアクセスのためのアスペクト指向仕様記述,
+電子情報通信学会 信学技報 KBSE2004-15, pp.7-11 (2004).
+
+\item 畑中 久典, 新屋敷 泰史, 三瀬 敏朗, 橋本 正明, 鵜林 尚靖, 片峯 恵一, 中谷 多哉子:
+組込みソフトウェア非正常系の概念モデルによる情報フロー・グラフの解析,
+電子情報通信学会 信学技報 KBSE2004-15, pp.19-24 (2004).
+
+\item 鵜林 尚靖:
+アスペクト指向に基づく拡張可能なMDAモデルコンパイラ,
+日本ソフトウェア科学会 第3回SPAワークショップ (AOPミニワークショップ) (2004).
+
+\item 新屋敷 泰史, 三瀬 俊朗, 江浦 洋平, 畑中 久典, 橋本 正明, 鵜林 尚靖, 片峯 恵一, 中谷 多哉子:
+組込みソフトウェア非正常系の概念モデル,
+情報処理学会 研究報告 2004-SE-145 (2004).
+
+\item 三瀬 敏朗, 新屋敷 泰史, 片峯 恵一, 鵜林 尚靖, 中谷 多哉子, 橋本 正明:
+組込みソフトウェア仕様抽出のための非正常系マトリクス,
+情報処理学会 研究報告 2004-SE-145 (2004).
+
+\item 鵜林 尚靖, 増原 英彦, 玉井 哲雄:
+X-ASB: A Framework for Implementing Extensible Aspect-oriented Programming Languages,
+情報処理学会 プログラミング研究会発表資料(2004年3月),
+(2004).
+
+\item 櫻井 孝平, 増原 英彦, 鵜林 尚靖, 松浦 佐江子, 古宮 誠一:
+連想アスペクト,
+情報処理学会 研究報告 2004-SE-144 (2004).
+
+\item 櫻井 孝平, 増原 英彦, 鵜林 尚靖, 松浦 佐江子, 古宮 誠一:
+Association Aspect −アスペクト指向プログラミングにおけるアスペクトのインスタンス化機構の拡張−,
+情報処理学会 第66回全国大会 (2004).
+
+\item 鵜林 尚靖, 玉井 哲雄:
+モデル検査によるアスペクト指向プログラミングの検証,
+情報処理学会 プログラミング研究会発表資料(2001年6月),
+(2001).
+
+\item 鵜林 尚靖, 玉井 哲雄:
+ロール概念に基づく発展型移動エージェント,
+日本ソフトウェア科学会 第16回大会論文集,
+pp.389-392 (1999).
+
+\item 鵜林 尚靖, 玉井 哲雄:
+コンテクスト概念に基づいたモジュール化機構,
+情報処理学会 ソフトウェア工学研究報告 117-8,
+pp.55-62 (1997).
+
+\item 鵜林 尚靖, 玉井 哲雄:
+オブジェクト間の協調動作を表現する自己反映並行計算モデル,
+情報処理学会 ソフトウェア工学研究報告 112-4,
+pp.25-32 (1996).
+
+\item 久野 靖, 大木 敦雄, 鵜林 尚靖:
+対称型メッセージ送信とその実装,
+情報処理学会 プログラミング研究報告 96-PRO-8,
+pp67-72 (1996).
+
+\item 鵜林 尚靖, 大木 敦雄, 久野 靖:
+パターン指向オブジェクト間協調計算モデルについて,
+人工知能学会 知識ベースシステム研究会 SIG-KBS-9601-5,
+pp.25-32 (1996).
+
+\item 鵜林 尚靖, 大木 敦雄, 久野 靖:
+並列オブジェクト協調記述言語Produce/1の実装,
+情報処理学会 プログラミング研究報告 95-PRO-5,
+pp.1-6 (1996).
+
+\item 鵜林 尚靖, 大木 敦雄, 久野 靖:
+並列オブジェクト協調記述言語Produce/1について,
+日本ソフトウェア科学会 第12回大会論文集,
+pp329-332 (1995).
+
+\item 鵜林 尚靖, 久野 靖:
+オブジェクト間協調動作表現モデルの提案
+    −「プロデューサモデル」とその記述言語について,
+情報処理学会 プログラミング研究報告 95-PRO-1,
+pp.41-48 (1995).
+
+\item 塩川 佳名美, 鵜林 尚靖:
+オブジェクト指向をベースとしたCASEドキュメント・カスタマイズ機構,
+情報処理学会 第46回全国大会
+(1993).
+
+\item 北村 順次, 鵜林 尚靖, 佐藤 誠, 熊谷 克夫, 高木 正彦:
+修正に伴うフィードバックを考慮したプログラム開発環境PLANET (1) −構想−,
+情報処理学会 第31回全国大会,
+pp.565-566 (1985).
+
+\item 鵜林 尚靖, 熊谷 克夫, 北村 順次, 朝日 洋次, 水谷 進:
+修正に伴うフィードバックを考慮したプログラム開発環境PLANET (2) −保守用ドキュメント支援系の実現−,
+情報処理学会 第31回全国大会,
+pp.567-568 (1985).
+
+\item 鵜林 尚靖, 金子 泰郎, 朝日 洋次, 北畠 浩充, 細江 亮:
+イメージ処理を支援するテストシミュレータの開発,
+情報処理学会 第30回全国大会,
+pp.651-652 (1985).
+
+\item 鵜林 尚靖, 北村 順次, 朝日 洋次:
+UNIX環境下におけるマイコン・クロスツールPL/T-16の開発,
+情報処理学会 第29回全国大会,
+pp.637-638 (1984).
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+\subsection{解説記事，翻訳記事}
+
+\begin{itemize}
+\item 丸山 勝久, 鵜林 尚靖:
+共通問題の作成--ワークショップを通して--,
+情報処理, vol.55, no.10, pp.1060-1063 (2014).
+
+\item 鵜林 尚靖, 野田 夏子, 滝沢 陽三, 松本 明:
+共通問題ショートエッセイ,
+情報処理, vol.55, no.10, pp.1069-1072 (2014).
+
+\item 紫合 治, 青山 幹雄, 鵜林 尚靖, 野田 夏子, 岸 知二:
+座談会--共通問題を通して見るソフトウェア工学の30年--,
+情報処理, vol.55, no.10, pp.1073-1079 (2014).
+
+\item 鵜林 尚靖:
+研究会活動紹介--ソフトウェア工学研究会--,
+情報処理, vol.55, no.4, pp.373 (2014).
+
+\item 井上 克郎, 楠本 真二, 後藤 厚宏, 鵜林 尚靖, 北川 博之:
+ぺた語義: 実践的情報教育協働ネットワークenPiT,
+情報処理, vol.55, no.2, pp.194-197 (2014).
+
+\item 鵜林 尚靖:
+コンテキストアウェアアプリケーション--ポストPC時代の共通問題--,
+情報処理, vol.54, no.9, pp.894-897 (2013).
+
+\item 中島 震, 鵜林 尚靖:
+Alloy: 自動解析可能なモデル規範形式仕様言語,
+日本ソフトウェア科学会誌 コンピュータソフトウェア,
+vol.26, no.3, pp.78-83 (2009).
+
+\item 鵜林 尚靖:
+Alloyによる設計記述と自動検査,
+システム制御情報学会誌,
+vol.52, no.9, pp.316-321 (2008).
+
+\item 鵜林 尚靖:
+知能ソフトウェア工学の研究最前線 --- アスペクト指向ソフトウェア開発,
+電子情報通信学会 情報・システムソサイエティ誌,
+vol.11, no.1, pp.10-11 (2006).
+
+\item 鵜林 尚靖:
+組み込みソフトウェアの設計モデリング技術,
+情報処理学会誌 2004年7月号,
+pp.682-689 (2004).
+
+\item 鵜林 尚靖:
+AOPにおけるアスペクトについて議論する (翻訳),
+情報処理学会誌 2002年3月号,
+pp.242-248 (2002).
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{講演}
+
+\begin{itemize}
+\item 鵜林 尚靖:
+モデル駆動開発とドメイン特化言語,
+情報処理学会 組込みソフトウェアシンポジウム2013 (ESS2013) チュートリアル
+(2013.10.16).
+
+\item 鵜林 尚靖:
+世界を目指す論文の書き方,
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2011 (SES 2011) チュートリアル
+(2011.9.13).
+
+\item 鵜林 尚靖:
+[ICSE 2010] Archface: A Contract Place Where Architectural Design and Code Meet Together,
+情報処理学会 ソフトウェアエンジニアリングシンポジウム2010 (SES 2010) 招待発表 (2010).
+
+\item Naoyasu Ubayashi:
+An Aspect-oriented Weaving Mechanism Based on Component-and-Connector Architecture,
+第14回先端ソフトウェア科学・工学に関するGRACEセミナー, 国立情報学研究所
+(2009.2.12)
+
+\item 鵜林 尚靖:
+ソフトウェア開発手法の最前線 〜アスペクト指向，MDA，MIC〜,
+東芝情報システム(株)殿向け技術講演会
+(2005.9.12).
+
+\item 鵜林 尚靖:
+アスペクト指向ソフトウェア開発,
+精密工学会 知識工学とCAD専門委員会 第82回例会 講演
+(2005.7.16).
+
+\item 鵜林 尚靖:
+アスペクト指向ソフトウェア開発,
+情報処理学会 組込みソフトウェアシンポジウム2004 (ESS2004) チュートリアル
+(2004.10.15).
+
+\item 鵜林 尚靖:
+MDA＋AOP その目的と動向,
+Modeling Forum 2004
+(2004.9.21).
+
+\item 鵜林 尚靖:
+アスペクト指向技術の紹介,
+ACM SIGMOD 日本支部 第26回大会講演
+(2003.7.4)
+
+\item 鵜林 尚靖:
+IT企業におけるソフトウェア研究の最前線,
+芝浦工業大学システム工学部電子情報システム学科向け特別講演
+(2002.11.29).
+
+\item 鵜林 尚靖:
+システム開発の管理技術,
+東軟集団有限公司瀋陽商用軟件分公司向け技術講演
+(2002.8.26).
+
+\item 鵜林 尚靖:
+オブジェクト指向の開発技術と方法論,
+東軟集団有限公司瀋陽商用軟件分公司向け技術講演
+(2002.8.26).
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{学会活動}
+
+%----------------------------------------------------------------------
+\subsection{委員長}
+
+\begin{itemize}
+\item AOSD 2013 (12th International Conference on Aspect-Oriented Software Development) Organizing Co-Chair (2013)
+\item AOSD 2009 (8th International Conference on Aspect-Oriented Software Development) Demonstrations Co-Chair (2009)
+\end{itemize}
+
+\begin{itemize}
+\item 日本ソフトウェア科学会 第19回ソフトウェア工学の基礎ワークショップ FOSE2012 プログラム委員長 (2012)
+
+\item 情報処理学会 論文誌「未来志向のソフトウェア工学」特集号 2010.9 編集委員長 (2010)
+
+\item 情報処理学会 ソフトウェアエンジニアリングシンポジウム SES2009 プログラム委員長 (2009)
+
+\item 情報処理学会 ソフトウェアエンジニアリングシンポジウム SES2007 論文委員長 (2007)
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+\subsection{プログラム委員, 審査委員}
+
+\begin{itemize}
+\item 14th Workshop on Domain-Specific Modeling (DSM 2014) プログラム委員 (2014)
+
+\item 3rd International Conference on Model-Driven Engineering and Software Development (MODELSWARD 2015) プログラム委員 (2014)
+
+\item 13th Workshop on Domain-Specific Modeling (DSM 2013) プログラム委員 (2013)
+
+\item 2nd International Conference on Model-Driven Engineering and Software Development (MODELSWARD 2014) プログラム委員 (2013)
+
+\item Special Session on Model Driven Development for Systems Design: Techniques, Tools and Methodologies (MDDSD 2013), In conjunction with the 15th International Conference on Enterprise Information Systems (ICEIS 2013) プログラム委員 (2013)
+
+\item 1st International Conference on Model-Driven Engineering and Software Development (MODELSWARD 2013) プログラム委員 (2012)
+
+\item 50th International Conference on Objects, Models, Components and Patterns (TOOLS Europe 2012) プログラム委員 (2012)
+
+\item UML\&FM 2012 (5th International workshop UML and Formal Methods) プログラム委員 (2012)
+
+\item UML\&FM 2011 (4th International workshop UML and Formal Methods) プログラム委員 (2011)
+
+\item UML\&FM 2010 (3rd International workshop UML and Formal Methods) プログラム委員 (2010)
+
+\item UML\&FM'09 (2nd International workshop UML and Formal Methods) プログラム委員 (2009)
+
+\item APSEC 2009 (16th Asia-Pacific Software Engineering Conference) プログラム委員 (2009)
+
+\item UML\&FM'08 (1st International workshop UML and Formal Methods) プログラム委員 (2008)
+
+\item APSEC 2008 (15th Asia-Pacific Software Engineering Conference) プログラム委員 (2008)
+
+\item APSEC 2007 (14th Asia-Pacific Software Engineering Conference) プログラム委員 (2007)
+
+\item SPLC 2007 (11th International Software Product Line Conference) Doctorial Symposium レビュアおよびパネリスト (2007)
+
+\item AOAsia3 (3rd Asian Workshop on Aspect-Oriented Software Development) プログラム委員 (2007)
+
+\item WAOSD 2004 (International Workshop on Aspect-Oriented Software Development) プログラム委員 (2004)
+\end{itemize}
+
+\begin{itemize}
+\item 日本ソフトウェア科学会 第21回ソフトウェア工学の基礎ワークショップ FOSE2014 プログラム委員 (2014)
+
+\item 日本ソフトウェア科学会 第20回ソフトウェア工学の基礎ワークショップ FOSE2013 プログラム委員 (2013)
+
+\item 日本ソフトウェア科学会 第18回ソフトウェア工学の基礎ワークショップ FOSE2011 プログラム委員 (2011)
+
+\item 日本ソフトウェア科学会 第17回ソフトウェア工学の基礎ワークショップ FOSE2010 プログラム委員 (2010)
+
+\item 日本ソフトウェア科学会 第16回ソフトウェア工学の基礎ワークショップ FOSE2009 プログラム委員 (2009)
+
+\item 情報処理学会 組込みシステムシンポジウム ESS2010 MDDロボットチャレンジ審査委員 (2010)
+
+\item 情報処理学会 組込みシステムシンポジウム ESS2009 MDDロボットチャレンジ審査委員 (2009)
+
+\item 情報処理学会 組込みシステムシンポジウム ESS2008 MDDロボットチャレンジ審査委員 (2008)
+
+\item 情報処理学会 ソフトウェアエンジニアリングシンポジウム SES2014 プログラム委員 (2014)
+
+\item 情報処理学会 ソフトウェアエンジニアリングシンポジウム SES2013 プログラム委員 (2013)
+
+\item 情報処理学会 ソフトウェアエンジニアリングシンポジウム SES2012 プログラム委員 (2012)
+
+\item 情報処理学会 ソフトウェアエンジニアリングシンポジウム SES2011 プログラム委員 (2011)
+
+\item 情報処理学会 ソフトウェアエンジニアリングシンポジウム SES2010 プログラム委員 (2010)
+
+\item 情報処理学会 ソフトウェアエンジニアリングシンポジウム SES2007 プログラム委員 (2007)
+
+\item 情報処理学会 ソフトウェアエンジニアリングシンポジウム SES2006 プログラム委員 (2006)
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+\subsection{学会役員, 委員}
+
+\begin{itemize}
+\item 情報処理学会 ソフトウェア工学研究会主査 (2013-2017)
+\item 情報処理学会 ソフトウェア工学研究会幹事 (2011-2012)
+\item 情報処理学会 ソフトウェア工学研究会運営委員 (2004-2007)
+\item 情報処理学会 組込みシステム研究グループ発起人 (2005)
+\item 情報処理学会 論文誌編集委員 (2004-2007)
+\item 情報処理学会 論文賞委員 (2004-2007)
+\item 情報処理学会 代表会員 (2014-2015)
+\item 日本ソフトウェア科学会論文賞選定委員 (2010)
+\item プロジェクトマネジメント学会 論文審査委員 (2009-?)
+\item プロジェクトマネジメント学会 評議員 (2006-2007)
+\item プロジェクトマネジメント学会 九州支部 副支部長 (2005-2009)
+\end{itemize}
+
+\begin{itemize}
+\item 情報処理学会 論文誌「ソフトウェア工学」特集号 (SES 2014) 編集委員
+\item 情報処理学会 論文誌「ソフトウェア工学」特集号 (SES 2013) 編集委員
+\item 情報処理学会 論文誌「ソフトウェア工学」特集号 (SES 2012) 編集委員
+\item 情報処理学会 論文誌「ソフトウェア工学の効果と価値」特集号 2008.7 編集委員
+\item 情報処理学会 論文誌「ソフトウェア工学の理論と実践」特集号 2007.8 編集委員
+\item 電子情報通信学会 論文誌ED小特集号「組込みソフトウェア工学」2005.6 編集委員
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{公的委員会活動}
+
+\begin{itemize}
+\item 文科省 分野・地域を超えた実践的情報教育恊働ネットワー(enPiT) 幹事 (2012-2016)
+
+\item 九州組込みソフトウェアコンソーシアム(QUEST) 理事 (2010-)
+
+\item 北九州カーエレクトロニクスセンター フォーマルメソッド研究会 メンバ (2009-2010)
+
+\item 情報処理推進機構 ソフトウェアエンジニアリングセンター (IPA/SEC) 組込みソフトウェア開発力強化推進タスクフォース総合部会 (2005-2006)
+
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{外部資金獲得}
+
+%----------------------------------------------------------------------
+\subsection{科学研究費補助金, CREST}
+
+\subsubsection{研究代表者}
+
+\begin{itemize}
+\item 科学研究費補助金(基盤研究(A))「不確かさを包容するモデル駆動開発機構に関する研究」研究代表者 (2014-2017)
+
+\item 科学研究費補助金(挑戦的萌芽研究)「滑らかな設計抽象化に関する研究」研究代表者 (2013-2015)
+
+\item 科学研究費補助金(基盤研究(B))「高信頼ソフトウェアアーキテクチャ構築に関する研究」研究代表者 (2011-2013)
+
+\item 科学研究費補助金(基盤研究(C))「検証可能なモデルコンパイラに関する研究」研究代表者 (2007-2009)
+
+\item 科学研究費補助金(基盤研究(C))「拡張可能なドメイン専用言語に関する研究」研究代表者 (2004-2006)
+\end{itemize}
+
+\subsubsection{研究分担者，連携研究者}
+
+\begin{itemize}
+\item 戦略的創造研究推進事業 (CREST) 研究領域:ポストペタスケール高性能計算に資するシステムソフトウェア技術の創出,「ポストペタスケール時代のスーパーコンピューティング向けソフトウェア開発環境」共同研究者 (2011-2016)
+
+\item 科学研究費補助金(基盤研究(A))「ポスト・アスペクト指向時代の階層的分割と横断的分割を統合するモジュール化の研究」連携研究者 (2010-2013)
+
+\item 科学研究費補助金(基盤研究(A))「生産性と安全性向上のためのアスペクト指向ソフトウェア開発に関する研究」研究分担者 → 連携研究者 (2006-2009)
+
+\item 科学研究費補助金(特定領域研究) ITの深化の基盤を拓く情報学研究「信頼性の高いコンポーネント技術の研究」研究協力者, 研究分担者 (2001-2005)
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+\subsection{国立機関共同研究}
+
+\begin{itemize}
+\item 国立情報学研究所共同研究(戦略研究公募型)「形式検証技術に基づいたディペンダブルソフトウェアアーキテクチャ構築に関する研究」(2011)
+
+\item 受託研究「安全ソフトウェア設計に関する調査研究」(経済産業省「平成22年度産業技術研究開発委託費(中小企業システム基盤開発環境整備事業(システム開発の高度化に関する調査研究))」) (2010)
+
+\item 国立情報学研究所共同研究(企画型)「形式手法を用いたソフトウェア・プロダクトラインの研究」(2006-2008)
+
+\item 国立情報学研究所共同研究(企画型)「アスペクト指向ソフトウェアの形式検証に関する研究」(2005)
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+\subsection{産学連携}
+
+\begin{itemize}
+\item 産業戦略的研究フォーラム (SSR)「学生の能力改善を目指したPBLの実施と，その評価方法についての調査研究」共同研究者 (2010)
+
+\item 「自律分散ソフトウェア技術の研究」(デンソーとの共同研究) (2009)
+
+\item 北九州産業学術推進機構(FAIS)マッチングファンド「大規模車載ソフトウェアの開発に関する研究」(デンソーとの共同研究) (2008)
+
+\item 北九州産業学術推進機構(FAIS)マッチングファンド「機能安全に対応可能な車載システムの安全設計ガイドと形式検証に関する研究」(アイシン精機との共同研究) (2008)
+
+\item 「エンタープライズソフトウェアの設計で利用されるオブジェクト指向/アスペクト指向などを組み込みソフトウェア領域に応用するための基礎調査ならびに基本検討」(東芝との共同研究) (2004-2007)
+\end{itemize}
+
+\end{document}

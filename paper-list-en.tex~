@@ -1,0 +1,540 @@
+\documentclass{article}
+\pagestyle{plain}
+
+\begin{document}
+\title{Publications}
+\author{Naoyasu Ubayashi}
+\maketitle
+
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{Book}
+\begin{itemize}
+\item Hidehiko Masuhara, Shigeru Chiba, Naoyasu Ubayashi (Eds.): Aspect-Oriented Software Development, AOSD '13, Fukuoka, Japan, March 24-29, 2013. ACM 2013, ISBN 978-1-4503-1766-5
+
+\item Hidehiko Masuhara, Shigeru Chiba, Naoyasu Ubayashi (Eds.): Aspect-Oriented Software Development, AOSD '13, Companion Volume, Fukuoka, Japan, March 24-29, 2013. ACM 2013, ISBN 978-1-4503-1873-0
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{Book Chapter}
+
+\begin{itemize}
+\item Tetsuo Tamai, Naoyasu Ubayashi, and Ryoichi Ichiyama:
+Objects as Actors Assuming Roles in the Environment,
+{\em Choren, R., Garcia, A., Giese, H., Leung, H., Lucena, C., and Romanovsky
+A., eds., Software Engineering for Multi-Agent Systems V,
+LNCS 4408}, Springer-Verlag, pp.185-203 (2007)
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{Journal Papers}
+
+\begin{itemize}
+\item Naoyasu Ubayashi, Shin Nakajima, and Masayuki Hirayama:
+Context-dependent Product Line Engineering with Lightweight Formal Approaches (SPLC 2010 Revised Selected Paper),
+{\em Science of Computer Programming}, 78(12), pp.2331-2346 (2013).
+
+\item Yasutaka Kamei, Emad Shihab, Bram Adams, Ahmed E. Hassan, Audris Mockus, Anand Sinha, and Naoyasu Ubayashi:
+A Large-Scale Empirical Study of Just-In-Time Quality Assurance,
+{\em IEEE Transactions on Software Engineering}, vol 39, issue 6, pp.757-773 (2013).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+An Extensible Aspect-oriented Modeling Environment for Constructing Domain-Specific Languages,
+{\em IEICE Transactions on Information and Systems}, vol E95-D no.4, pp.942-958 (2012).
+
+\item Takako Nakatani, Shozo Hori, Naoyasu Ubayashi, Keiichi Katamine, and Masaaki Hashimoto:
+A Case Study of Requirements Elicitation Process with Changes,
+{\em IEICE Transactions on Information and Systems}, vol E93-D no.8, pp.2182-2189 (2010).
+
+\item Shozo Hori, Takako Nakatani, Keiichi Katamine, Naoyasu Ubayashi, and Masaaki Hashimoto:
+Project Management Patterns To Prevent Schedule Delay Caused by Requirements Changes,
+{\em IEICE Transactions on Information and Systems}, vol E93-D no.4, pp.745-753 (2010).
+
+\item Naoyasu Ubayashi, Tetsuo Tamai, Shinji Sano, Yusaku Maeno, and Satoshi Murakami:
+Metamodel Access Protocols for Extensible Aspect-Oriented Modeling,
+{\em International Transactions on Systems Science and Applications (ITSSA)},
+vol.1, no.1, pp.93-101 (2006).
+
+\item Kouhei Sakurai, Hidehiko Masuhara, Naoyasu Ubayashi, Saeko Matuura, and Seiichi Komiya: 
+Design and Implementation of an Aspect Instantiation Mechanism,
+{\em Transactions on Aspect-Oriented Software Development I,
+Lecture Notes in Computer Science, vol.3880}, Springer-Verlag,
+pp.259-292 (2006).
+
+\item Naoyasu Ubayashi and Tetsuo Tamai:
+Modeling collaborations among objects that change their roles dynamically and its modularization mechanism,
+{\em Systems and Computers in Japan},
+vol.33, no.5, pp.51-63 (2002).
+
+\item Naoyasu Ubayashi, Atsuo Ohki, and Yasushi Kuno: 
+A Parallel Computation Model and a Programming Language 
+for the Description of Collaboration among Objects,
+{\em Systems and Computers in Japan},
+vol.28, no.5, pp.33-43 (1997).
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{Conference Papers}
+
+\begin{itemize}
+\item Akinori Ihara, Yasutaka Kamei, Masao Ohira, Ahmed E. Hassan, Naoyasu Ubayashi, and Kenichi Matsumoto:
+Early Identification of Future Committers in Open Source Software Projects,
+In {\em Proceedings of the 14th International Conference on Quality Software (QSIC 2014)}, to appear (2014).
+
+\item Naoyasu Ubayashi, Di Ai, Peiyuan Li, Yu Ning Li, Shintaro Hosoai, and Yasutaka Kamei:
+Abstraction-aware Verifying Compiler for Yet Another MDD,
+In {\em Proceedings of the 29th International Conference on Automated Software Engineering (ASE 2014)}, New Ideas Paper, pp.557-562 (2014).
+
+\item Shuhei Ohsako, Yasutaka Kamei, Shintaro Hosoai, Weiqiang Kong, Kimitaka Kato, Akihiko Ishizuka, Kazutoshi Sakaguchi, Miyuki Kawataka, Yoshitsugu Morita, Naoyasu Ubayashi, and Akira Fukuda:
+A Case Study on Introducing the Design Thinking into PBL,
+In {\em Proceedings of the 10th International Conference on Frontiers in Education: Computer Science and Computer Engineering  (FECS 2014)} (2014).
+
+\item Takafumi Fukushima, Yasutaka Kamei, Shane McIntosh, Kazuhiro Yamashita, and Naoyasu Ubayashi:
+An Empirical Study of Just-In-Time Defect Prediction Using Cross-Project Models,
+In {\em Proceedings of the 11th Working Conference on Mining Software Repositories (MSR 2014)}, pp.172-181 (2014).
+
+\item Kazuhiro Yamashita, Shane McIntosh, Yasutaka Kamei, and Naoyasu Ubayashi:
+Magnet or Sticky?: An OSS Project-by-Project Typology,
+Mining Challenge Track,
+In {\em Proceedings of the 11th Working Conference on Mining Software Repositories (MSR 2014)}, pp.344-347 (2014).
+
+\item Di Ai, Naoyasu Ubayashi, Peiyuan Li, Daisuke Yamamoto, Yu Ning Li, Shintaro Hosoai, and Yasutaka Kamei:
+iArch: An IDE for Supporting Fluid Abstraction,
+In {\em Proceedings of the 13th International Conference on Modularity (Modularity'14)}, Demonstrations, pp.13-16 (2014).
+
+\item Di Ai, Naoyasu Ubayashi, Peiyuan Li, Shintaro Hosoai, and Yasutaka Kamei:
+iArch: An IDE for Supporting Abstraction-aware Design Traceability,
+In {\em Proceedings of the 2nd International Conference on Model-Driven Engineering and Software Development (MODELSWARD 2014)},
+pp.442-447 (2014).
+
+\item Tetsuya Oishi, Weiqiang Kong, Yasutaka Kamei, Norimichi Hiroshige, Naoyasu Ubayashi, and Akira Fukuda:
+An Empirical Study on Remote Lectures Using Video Conferencing Systems,
+In {\em Proceedings of the 9th International Conference on Frontiers in Education: Computer Science and Computer Engineering  (FECS 2013)} (2013).
+
+\item Masateru Tsunoda, Koji Toda, Kyohei Fushida, Yasutaka Kamei, Meiyappan Nagappan, and Naoyasu Ubayashi:
+Revisiting Software Development Effort Estimation Based on Early Phase Development Activities,
+In {\em Proceedings of International Working Conference on Mining Software Repositories (MSR 2013)}, pp.429-438 (2013)
+
+\item Kazuhiro Yamashita:
+Modular Construction of an Analysis Tool for Mining Software Repositories,
+MODULARITY: aosd13, ACM Student Research Competition (2013).
+
+\item Tetsuya Oishi, Yasutaka Kamei, Weiqiang Kong, Norimichi Hiroshige, Naoyasu Ubayashi, and Akira Fukuda:
+An Experience Report on Remote Lecture Using Multi-point Control Unit,
+In {\em Proceedings of International Conference on Education and Teaching (ICET 2013)} (2013).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+UML-based Design and Verification Method for Developing Dependable Context-aware Systems,
+In {\em Proceedings of the 1st International Conference on Model-Driven Engineering and Software Development (MODELSWARD 2013)},
+pp.89-94 (2013).
+
+\item Norimichi Hiroshige, Weiqiang Kong, Shigeru Kusakabe, Tsunenori Mine, Naoyasu Ubayashi, Akira Fukuda, and Keijiro Araki:
+Communication Analysis through PBL,
+In {\em Proceedings of the 2012 International Conference onf Frontiers in Education: Computer Science and Computer Engineering (FECS 2012)},
+vol.1 pp.54-58 (2012).
+
+\item Rina Nagano, Hiroki Nakamura, Yasutaka Kamei, Bram Adams, Kenji Hisazumi, Naoyasu Ubayashi, and Akira Fukuda:
+Using the GPGPU for Scaling Up Mining Software Repositories,
+In {\em Proceedings of the 34th International Conference on Software Engineering (ICSE 2012)}, poster,
+IEEE Computer Society, pp.1435-1436 (2012).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+Stepwise Context Boundary Exploration Using Guide Words,
+CAiSE Forum 2011, LNBIP 107 proceedings,
+pp.218-233 (2012).
+
+\item Yasutaka Kamei, Hiroki Sato, Akito Monden, Shinji Kawaguchi, Hidetake Uwano, Masataka Nagura, Ken-Ichi Matsumoto, and Naoyasu Ubayashi:
+An Empirical Study of Fault Prediction with Code Clone Metrics,
+In {\em Proceedings of the Joint Conference of the 21th International Workshop on Software Measurement (IWSM) and the 6th International Conference on Software Process and Product Measurement (Mensura) (IWSM/MENSURA 2011)},
+pp.55-61 (2011).
+
+\item Ryosuke Nakashiro, Yasutaka Kamei, Naoyasu Ubayashi, Shin Nakajima, and Akihito Iwai:
+Translation Pattern of BPEL Process into Promela Code [Short paper],
+In {\em Proceedings of the Joint Conference of the 21th International Workshop on Software Measurement (IWSM) and the 6th International Conference on Software Process and Product Measurement (Mensura) (IWSM/MENSURA 2011)},
+pp.285-290 (2011).
+
+\item Naoyasu Ubayashi, Yasutaka Kamei, Masayuki Hirayama, and Tetsuo Tamai:
+A Context Analysis Method for Embedded Systems ---Exploring a Requirement Boundary between a System and Its Context,
+In {\em Proceedings of the 19th IEEE International Requirements Engineering Conference (RE 2011)},
+IEEE Computer Society, pp.143-152 (2011).
+[acceptance rate: 23 of 138 (16.7\%)]
+
+\item Masaru Shiozuka, Naoyasu Ubayashi, and Yasutaka Kamei:
+Debug Concern Navigator,
+In {\em Proceedings of the 23rd International Conference on Software Engineering and Knowledge Engineering (SEKE 2011)},
+pp.197-202 (2011).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+Stepwise Context Boundary Exploration Using Guide Words,
+In {\em Proceedings of the 23rd International Conference on Advanced Information Systems Engineering (CAiSE 2011 Forum)} (2011).
+
+\item Keiji Hokamura, Naoyasu Ubayashi, Shin Nakajima, and Akihito Iwai:
+Reusable Aspect Components for Web Applications,
+In {\em Proceedings of 2010 IEEE Region 10 Conference (TENCON 2010)},
+pp.1059-1064 (2010).
+
+\item Naoyasu Ubayashi, Shin Nakajima, and Masayuki Hirayama:
+Context-dependent Product Line Practice for Constructing Reliable Embedded Systems,
+In {\em Proceedings of the 14th International Software Product Line Conference (SPLC 2010)},
+Springer LNCS 6287, pp.1-15 (2010).
+[acceptance rate: 28 of 90 (31\%)]
+
+\item Naoyasu Ubayashi, Jun Nomura, and Tetsuo Tamai:
+Archface: A Contract Place Where Architectural Design and Code Meet Together,
+In {\em Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering (ICSE 2010)},
+ACM PRESS, pp.75-84 (2010).
+[acceptance rate: 54 of 380 (14\%)]
+
+\item Shozo Hori, Takako Nakatani, Keiichi Katamine, Naoyasu Ubayashi, and Masaaki Hashimoto:
+A Discussion on a Framework of Project Management Patterns to Prevent Schedule Delay Caused by  Requirements Elicitation,
+In {\em Proceedings of the IADIS Information Systems Conference (IS 2010)} (2010).
+
+\item Keiji Hokamura, Ryoto Naruse, Masaru Shiozuka, Naoyasu Ubayashi, Shin Nakajima, and Akihito Iwai:
+AOWP: Web-specific AOP framework for PHP,
+In {\em Proceedings of the 24th IEEE/ACM International Conference on Automated Software Engineering (ASE 2009)} Tool Demonstrations Track,
+IEEE Computer Society,  pp.679-681 (2009).
+
+\item Shouzo Hori, Takako Nakatani, Keiichi Katamine, Naoyasu Ubayashi, and Masaaki Hashimoto:
+Project Management Patterns for Preventing Schedule Delay Caused by Requirements Changes,
+In {\em Proceedings of the 4th International Conference on Software and Data Technologies (ICSOFT 2009)} (2009).
+
+\item Naoyasu Ubayashi, Genya Otsubo, Kazuhide Noda, and Jun Yoshida:
+An Extensible Aspect-oriented Modeling Environment,
+In {\em Proceedings of the 21st International Conference on Advanced Information Systems (CAiSE 2009)},
+Lecture Notes in Computer Science, Springer-Verlag, vol.5565, pp.17-31 (2009).
+[acceptance rate: 36 of 230 (16\%)]
+
+\item Keiji Hokamura, Naoyasu Ubayashi, Shin Nakajima, and Akihito Iwai:
+Aspect-oriented Programming for Web Controller Layer,
+In {\em Proceedings of the 15th Asia-Pacific Software Engineering Conference (APSEC 2008)},
+IEEE Computer Society,
+pp.529-536 (2008).
+[acceptance rate: 65 of 221 (29\%)]
+
+\item Naoyasu Ubayashi, Genya Otsubo, Kazuhide Noda, Jun Yoshida, and Tetsuo Tamai:
+AspectM: UML-based Extensible AOM Language,
+In {\em Proceedings of the 23rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2008)} Research Tool Demonstrations Track,
+IEEE Computer Society,
+pp.501-502 (2008).
+
+\item Takako Nakatani, Shouzo Hori, Naoyasu Ubayashi, Keiichi Katamine, and Masaaki Hashimoto:
+A Case Study: Requirements Elicitation Processes throughout a Project,
+In {\em Proceedings of the 16th IEEE International Requirements Engineering Conference (RE 2008)} Industrial Practice and Experience Track,
+IEEE Computer Society,
+pp.241-246 (2008).
+
+\item Keiichi Katamine, Yasufumi Shinyashiki, Toshiro Mise, Masaaki Hashimoto, Naoyasu Ubayashi, and Takako Nakatani:
+Formalizing a Conceptual Model for Analysis Method of Extracting Unexpected Obstacles of Embedded Systems,
+In {\em Proceedings of the 8th Joint Conference on Knowledge-Based Software Engineering (JCKBSE 2008)} (2008).
+
+\item Keiichi Ishibashi, Masaaki Hashimoto, Keiichi Katamine, Ryoma Shiratsuchi, Keita Asaine, Takako Nakatani, Naoyasu Ubayashi, and Yoshihiro Akiyama:
+A Discussion on Domain Modeling in an Example of Motivation-Based Human Resource Management,
+In {\em Proceedings of the 8th Joint Conference on Knowledge-Based Software Engineering (JCKBSE 2008)} (2008).
+
+\item Keiichi Ishibashi, Masaaki Hashimoto, Keiichi Katamine, Ryoma Shiratsuchi, Keita Asaine, Takako Nakatani, Naoyasu Ubayashi, and Yoshihiro Akiyama:
+A CCPM Application: A Motivation-based Modeling of Generating Management Scenarios,
+In {\em Proceedings of the 4th International Project Management Conference (ProMAC 2008)} (2008).
+
+\item Naoyasu Ubayashi, Yuki Sato, Akihiro Sakai, and Tetsuo Tamai:
+Alloy-based Lightweight Verification for Aspect-oriented Architecture,
+In {\em Proceedings of the 6th International Conference on Software Engineering Research, Management and Applications (SERA 2008)},
+IEEE Computer Society,
+pp.171-178 (2008).
+[acceptance rate: 62 of 147 (42\%)]
+
+\item Naoyasu Ubayashi, Jinji Piao, Suguru Shinotsuka, and Tetsuo Tamai:
+Contract-based Verification for Aspect-oriented Refactoring,
+In {\em Proceedings of the 1st IEEE International Conference on Software Testing, Verification, and Validation (ICST 2008)},
+IEEE Computer Society,
+pp.180-189 (2008).
+[acceptance rate: 37 of 147 (25\%)]
+
+\item Yasufumi Shinyashiki, Toshiro Mise, Masaaki Hashimoto, Naoyasu Ubayashi, Keiichi Katamine, and Takako Nakatani:
+Enhancing the ESIM (Embedded Systems Improving Method) by Combining Information Flow Diagram with Analysis Matrix for Efficient Analysis of Unexpected Obstacles in Embedded Software,
+In {\em Proceedings of the 14th Asia-Pacific Software Engineering Conference (APSEC 2007)},
+IEEE Computer Society,
+pp.326-333 (2007).
+[acceptance rate: 67 of 214 (31\%)]
+
+\item Naoyasu Ubayashi, Akihiro Sakai, and Tetsuo Tamai:
+An Aspect-oriented Weaving Mechanism Based on Component and Connector Architecture,
+In {\em Proceedings of the 22nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2007)},
+ACM PRESS,
+pp.154-163 (2007).
+[acceptance rate: 37 of 312 (12\%)]
+
+\item Yasufumi Shinyashiki, Toshiro Mise, Masaaki Hashimoto, Keiichi Katamine, Naoyasu Ubayashi, and Takako Nakatani:
+A Suggestion for Analysis of Unexpected Obstacles in Embedded System,
+In {\em Proceedings of the 12th International Conference on Human-Computer Interaction (HCI 2007)},
+pp.755-768 (2007).
+
+\item Naoyasu Ubayashi and Shin Nakajima:
+Context-aware Feature-Oriented Modeling with an Aspect Extension of VDM,
+In {\em Proceedings of the 22nd Annual ACM Symposium on Applied Computing (SAC 2007)} ---Programming for Separation of Concerns (PSC) Track ,
+pp.1269-1274 (2007).
+[acceptance rate: 251 of 786 (32\%)]
+
+\item Shinya Yoshihara, Shozo Hori, Yoshihiro Akiyama, Takako Nakatani, Keiichi Katamine, Naoyasu Ubayashi, and Masaaki Hashimoto:
+A Requirement Traceability Model for Managing Unexpected Obstacle Analysis in the Upper Process of Embedded Software Development Projects,
+In {\em Proceedings of the 3rd International Project Management Conference (ProMAC 2006)} (2006).
+
+\item Ishibashi K., Shiratsuchi R., Asaine K., Hashimoto M., Akiyama Y., Nakatani T., Ubayashi N., Katamine K., and Miyashita Y.:
+Applying Lawler's expectancy theory to human factors in project management -Introducing the CCPM method as an example,
+In {\em Proceedings of the 3rd International Project Management Conference (ProMAC 2006)} (2006).
+
+\item Hidehiro Kametani, Yasuhumi Shiniashiki, Toshiro Mise, Masaaki Hashimoto, Naoyasu Ubayashi, Keiichi Katamine, and Takako Nakatani:
+Information Flow Diagram and Analysis Method for Unexpected Obstacle Specification of Embedded Software,
+In {\em Proceedings of the 7th Joint Conference on Knowledge-Based Software Engineering (JCKBSE 2006)},
+pp.115-124 (2006).
+
+\item Toshiro Mise, Yasuhumi Shiniashiki, Takako Nakatani, Naoyasu Ubayashi, Keiichi Katamine, and Masaaki Hashimoto:
+A Method for Extracting Unexpected Scenarios of Embedded Systems,
+In {\em Proceedings of the 7th Joint Conference on Knowledge-Based Software Engineering (JCKBSE 2006)},
+pp.41-50 (2006).
+
+\item Naoyasu Ubayashi, Tetsuo Tamai, Shinji Sano, Yusaku Maeno, and Satoshi Murakami:
+Metamodel Access Protocols for Extensible Aspect-Oriented Modeling,
+In {\em Proceedings of the 18th International Conference on Software Engineering and Knowledge Engineering (SEKE 2006)},
+pp.4-10 (2006).
+[acceptance rate: 42\%]
+
+\item Toshiro Mise, Masaaki Hashimoto, Keiichi Katamine, Yasufumi Shinyashiki, Naoyasu Ubayashi, and Takako Nakatani:
+An Analysis Method with Failure Scenario Matrix for Specifying Unexpected Obstacles in Embedded Systems,
+In {\em Proceedings of the 12th Asia-Pacific Software Engineering Conference (APSEC 2005)},
+IEEE Computer Society,
+pp.447-456 (2005).
+[acceptance rate: 29\%]
+
+\item Naoyasu Ubayashi, Genki Moriyama, Hidehiko Masuhara, and Tetsuo Tamai:
+A Parameterized Interpreter for Modeling Different AOP Mechanisms,
+In {\em Proceedings of the 20th IEEE/ACM International Conference on Automated Software Engineering (ASE 2005)},
+ACM PRESS,
+pp.194-203 (2005).
+[acceptance rate: 28 of 291 (10\%)]
+
+\item Naoyasu Ubayashi, Tetsuo Tamai, Shinji Sano, Yusaku Maeno, and Satoshi Murakami:
+Model Compiler Construction Based on Aspect-Oriented Mechanisms,
+In {\em Proceedings of the 4th ACM SIGPLAN International Conference on Generative Programming and Component Engineering (GPCE 2005),
+Lecture Notes in Computer Science}, Springer-Verlag, vol.3676,
+pp.109-124 (2005).
+[acceptance rate: 27 of 86 (31\%)]
+
+\item Tetsuo Tamai, Naoyasu Ubayashi, and Ryoichi Ichiyama:
+An Adaptive Object Model with Dynamic Role Binding,
+In {\em Proceedings of the 27th IEEE/ACM International Conference on Software Engineering (ICSE 2005)},
+ACM PRESS,
+pp.166-175 (2005).
+[acceptance rate: 44 of 313 (14\%)]
+
+\item Masaaki Hashimoto, Toyohiko Hirota, Yuji Imoto, Keiichi Katamine, Osamu Takata, and Naoyasu Ubayashi:
+A Discussion on Modeling Technique of Product-Oriented Project Scheduling in an Example of Building Construction,
+In {\em Proceedings of the 2nd International Project Management Conference (ProMAC 2004)},
+pp.628-633 (2004).
+
+\item Kouhei Sakurai, Hidehiko Masuhara, Naoyasu Ubayashi, Saeko Matsuura, and Seiichi Komiya:
+Association aspects,
+In {\em Proceedings of the 3rd International Conference on Aspect-Oriented Software Development (AOSD 2004)},
+ACM PRESS,
+pp.16-25 (2004).
+[acceptance rate: 15 of 82 (18\%)]
+
+\item Naoyasu Ubayashi and Tetsuo Tamai:
+Aspect-Oriented Programming with Model Checking,
+In {\em Proceedings of the 1st International Conference on Aspect-Oriented Software Development (AOSD 2002)},
+ACM PRESS, short paper,
+pp.148-154 (2002).
+[acceptance rate: 9+8 of 50 (34\%)]
+
+\item Naoyasu Ubayashi and Tetsuo Tamai:
+Separation of Concerns in Mobile Agent Applications,
+In {\em Proceedings of the 3rd International Conference on Metalevel Architectures and Separation of Crosscutting Concerns (REFLECTION 2001),
+Lecture Notes in Computer Science, vol.2192}, Springer-Verlag,
+pp.89-109 (2001).
+[acceptance rate: 11 of 44 (25\%)]
+
+\item Naoyasu Ubayashi and Tetsuo Tamai:
+RoleEP: Role Based Evolutionary Programming for Cooperative Mobile Agent
+Applications,
+In {\em Proceedings of the International Symposium on Principles of Software Evolution 2000 (ISPSE 2000)},
+IEEE Computer Society,
+pp.243-251 (2000).
+
+\item Naoyasu Ubayashi and Tetsuo Tamai:
+An Evolutional Cooperative Computation
+Based on Adaptation to Environment,
+In {\em Proceedings of the 6th Asia Pacific Software Engineering Conference (APSEC'99)},
+IEEE Computer Society,
+pp.334-341 (1999).
+[acceptance rate: 65 of 137 (47\%)]
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{Referred Workshop Papers}
+
+\begin{itemize}
+\item Peiyuan Li, Naoyasu Ubayashi, Di Ai, Yu Ning Li, Shintaro Hosoai, Yasutaka Kamei:
+Sketch-based Gradual Model-Driven Development,
+International Workshop on Innovative Software Development Methodologies and Practices (InnoSWDev) (Workshop at FSE 2014), to appear (2014).
+
+\item Naoyasu Ubayashi, Di Ai, Peiyuan Li, Yu Ning Li, Shintaro Hosoai, and Yasutaka Kamei:
+Uncertainty-aware Architectural Interface,
+9th International Workshop on Advanced Modularization Techniques (AOAsia/Pacific 2014)  (Workshop at FSE 2014), to appear (2014).
+
+\item Changyun Huang, Naoyasu Ubayashi, and Yasutaka Kamei:
+Towards Language-Oriented Software Development,
+2nd International Workshop on Open and Original Problems in Software Language Engineering (OOPSLE 2014) (Workshop at CSMR-WCRE 2014), pp.20-23 (2014).
+
+\item Kazuhiro Yamashita, Yasutaka Kamei, Kenji Hisazumi, and Naoyasu Ubayashi:
+E-CUBE: An Analysis Tool to Support Three Types of Evolution in Mining Software Repositories,
+2013 International Workshop on ICT (2013).
+
+\item Changyun Huang, Yasutaka Kamei, Kazuhiro Yamashita, and Naoyasu Ubayashi:
+Using Alloy to Support Feature-Based DSL Construction for Mining Software Repositories,
+5th International Workshop on Model-driven Approaches in Software Product Line Engineering; 4th Workshop on Scalable Modeling Techniques for Software Product Lines (MAPLE/SCALE 2013)  (Workshop at SPLC 2013), pp.86-89 (2013).
+
+\item Naoyasu Ubayashi, Ai Di, and Yasutaka Kamei:
+Archface4COP: Architectural Interface for Context-Oriented Programming,
+5th Workshop on Context-Oriented Programming (COP 2013) (Workshop at ECOOP 2013) (2013).
+
+\item Changyun Huang, Kazuhiro Yamashita, Yasutaka Kamei, Kenji Hisazumi, and Naoyasu Ubayashi:
+Domain Analysis for Mining Software Repositories ---Towards Feature-based DSL Construction---,
+4th International Workshop on Product LinE Approaches in Software Engineering (PLEASE 2013) (Workshop at ICSE 2013), pp.41-44 (2013).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+Design Module: A Modularity Vision Beyond Code ---Not Only Program Code But Also a Design Model Is a Module---,
+5th International Workshop on Modelling in Software Engineering (MiSE 2013) (Workshop at ICSE 2013), pp.44-50 (2013).
+
+\item Akinori Ihara, Yasutaka Kamei, Akito Monden, Masao Ohira, Jacky Wai Keung, Naoyasu Ubayashi, and Ken-ichi Matsumoto:
+An Investigation on Software Bug Fix Prediction for Open Source Software Projects -A Case Study on the Eclipse Project -,
+International Workshop on Software Analysis, Testing and Applications (SATA 2012) (Workshop at APSEC 2012), pp.112-119 (2012).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+UML4COP: UML-based DSML for Context-Aware Systems,
+12th Workshop on Domain-Specific Modeling (DSM 2012) (Workshop at SPLASH 2012) (2012).
+
+\item Hiroki Nakamura, Rina Nagano, Kenji Hisazumi, Yasutaka Kamei, Naoyasu Ubayashi, and Akira Fukuda:
+QORAL: An External Domain-Specific Language for Mining Software Repositories,
+4th International Workshop on Empirical Software Engineering in Practice (IWESEP 2012) (2012).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+Archpoint and Archmapping - Bidirectional Traceability between Design and Code -,
+Korea-Japan Joint Workshop on ICT (2012).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+Verifiable Architectural Interface for Supporting Model-Driven Development with Adequate Abstraction Level,
+4th International Workshop on Modelling in Software Engineering (MiSE 2012) (Workshop at ICSE 2012), pp.15-21 (2012).
+
+\item Naoyasu Ubayashi and Yasutaka Kamei:
+Architectural Point Mapping for Design Traceability,
+11th Workshop on Foundations of Aspect-Oriented Languages (FOAL 2012) (Workshop at AOSD 2012), pp.39-43 (2012).
+
+\item Shizuka Uchio, Naoyasu Ubayashi, and Yasutaka Kamei:
+CJAdviser: SMT-based Debugging Support for ContextJ*,
+3rd Workshop on Context-Oriented Programming (COP 2011) (Workshop at ECOOP 2011) (2011).
+
+\item Naoyasu Ubayashi:
+A Context Analysis Method for Developing Secure Embedded Systems,
+7th International Workshop on Software Engineering for Secure Systems (SESS 2011) (Workshop at ICSE 2011) (2011).
+
+\item Naoyasu Ubayashi:
+A Modularity Assessment Framework for Context-dependent Formal Specifications,
+4th Workshop on Assessment of Contemporary Modularization Techniques(ACoM 2010) (Workshop at SPLC 2010),
+pp.13-14 (2010).
+
+\item Shin Nakajima, Keiji Hokamura, and Naoyasu Ubayashi:
+Aspect-Oriented Development of PHP-based Web Applications,
+4th IEEE International Workshop on Quality Oriented Reuse of Software(QUORS 2010) (Workshop at COMPSAC 2010),
+pp.37-44 (2010).
+
+\item Naoyasu Ubayashi, Hidenori Akatoki, and Jun Nomura:
+Pointcut-based Architectural Interface for Bridging a Gap between Design and Implementation,
+In {\em Proceedins of 6th ECOOP 2009 Workshop on Reflection, AOP and Meta-Data for Software Evolution (RAM-SE'09)} (2009).
+
+\item Shin Nakajima, Naoyasu Ubayashi, and Keiji Hokamura:
+Runtime Monitoring of Cross-cutting Policy,
+In {\em Proceedins of Early Aspects at ICSE: Aspect-Oriented Requirements Engineering and Architecture Design (EA 2009)} (Workshop at ICSE 2009) (2009).
+
+\item Naoyasu Ubayashi, Toshiki Seto, Hirotoshi Kanagawa, Susumu Taniguchi, Jun Yoshida, Takeshi Sumi, and Masayuki Hirayama:
+A Context Analysis Method for Constructing Reliable Embedded Systems,
+In {\em Proceedins of Workshop on Modeling in Software Engineering (MISE 2008)} (Workshop at ICSE 2008),
+pp.57-63 (2008).
+[acceptance rate: 13 of 30 (43\%)]
+
+\item Shin Nakajima and Naoyasu Ubayashi:
+Lightweight Formal Analysis of FODA Feature Diagrams,
+In {\em Proceedins of the 4th International Workshop on Rapid Integration of Software Engineering techniques (RISE 2007)},
+pp.3-18 (2007).
+
+\item Naoyasu Ubayashi, Yusaku Maeno, Kazuhide Noda, and Genya Otsubo:
+A Verification Mechanism for Weaving in Extensible AOM Languages,
+In {\em Proceedins of the 2nd International Workshop on Aspects, Dependencies and Interactions (ADI'07)} (Workshop at ECOOP 2007),
+pp.36-41 (2007).
+
+\item Naoyasu Ubayashi, Shinji Sano, and Genya Otsubo:
+A Reflective Aspect-oriented Model Editor Based on Metamodel Extension,
+Workshop on Modeling in Software Engineering (MISE 2007) (Workshop at ICSE 2007) (2007).
+[acceptance rate: 12 of 29 (41\%)]
+
+\item Naoyasu Ubayashi, Akihiro Sakai, and Tetsuo Tamai:
+An Interface Mechanism for Encapsulating Weaving in Class-based AOP,
+Software Engineering Properties of Language and Aspect Technologies (SPLAT 2007) (Workshop at AOSD 2007) (2007).
+
+\item Suguru Shinotsuka, Naoyasu Ubayashi, Hideaki Shinomi, and Tetsuo Tamai:
+An Extensible Contract Verifier for AspectJ,
+In {\em Proceedings of the 2nd Asian Workshop on Aspect-Oriented Software Development (AOAsia 2)} (Workshop at ASE 2006),
+pp.35-40 (2006).
+
+\item Naoyasu Ubayashi and Shin Nakajima:
+Separation of Context Concerns --- Applying Aspect Orientation to VDM,
+Second Overture (Open Source Formal Methods Tools) Workshop (Workshop at FM'06)
+(2006).
+
+\item Naoyasu Ubayashi, Tetsuo Tamai, Shinji Sano, Yusaku Maeno, and Satoshi Murakami:
+Model Evolution with Aspect-Oriented Mechanisms,
+In {\em Proceedings of International Workshop on Principles of Software Evolution (IWPSE 2005)} (Workshop at ESEC/FSE 2005),
+IEEE Computer Society,
+pp.187-194 (2005).
+[acceptance rate: 13 of 54 (24\%)]
+
+\item Naoyasu Ubayashi and Tetsuo Tamai:
+Concern Management for Constructing Model Compilers,
+In {\em Proceedings of the 1st International Workshop on the Modeling and Analysis of Concerns in Software (MACS 2005)} (Workshop at ICSE 2005),
+{\em ACM SIGSOFT Software Engineering Notes}, vol.30, issue 4 (2005).
+
+\item Tetsuo Tamai, Naoyasu Ubayashi, and Ryoichi Ichiyama:
+An Adaptive Object Model with Dynamic Role Binding,
+In {\em Proceedings of Workshop on New Approaches to Software Construction (WNASC 2004)},
+pp.103-121 (2004).
+
+\item Naoyasu Ubayashi, Hidehiko Masuhara, and Tetsuo Tamai:
+An AOP Implementation Framework for Extending Join Point Models,
+In {\em Proceedings of the ECOOP'2004 Workshop on Reflection, AOP and Meta-Data for Software Evolution (RAM-SE'04)},
+pp.71-81 (2004).
+\end{itemize}
+
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+\section{Non-Referred Workshop Presentation}
+
+\begin{itemize}
+\item Ryosuke Nakashiro, Yasutaka Kamei, Naoyasu Ubayashi, Shin Nakajima, and Akihito Iwai:
+Verification of BPEL Workflows Design using Model Checking,
+Joint Workshop on Software Science and Engineering,
+pp.7-10 (2011).
+
+\item Naoyasu Ubayashi, Jun Nomura, and Tetsuo Tamai:
+Archface: A Contract Place Where Architectural Design and Code Meet Together (ICSE 2010 paper [Presentation only]),
+AOAsia/Pacific'10 (2010).
+\end{itemize}
+
+\end{document}
